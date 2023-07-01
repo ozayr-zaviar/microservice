@@ -1,124 +1,187 @@
-const sequelize = require('./database');
 var bodyParser = require('body-parser');
 const cors = require('cors');
-const { User, Magazine, Subscription } = require('./models');
 const express = require('express');
 const http = require('http');
-
-const options = {
-  hostname: 'localhost',
-  port: 6000,
-  path: '/batch',
-  method: 'GET'
-};
+require('dotenv').config();
+const { createProxyMiddleware } = require('http-proxy-middleware');
 
 const app = express();
 app.use(cors());
-const port = process.env.PORT || 7000;
+const port = process.env.PORT || 80;
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
+const reactServerURL = process.env.FE_HOST + ":" + process.env.FE_PORT; 
+app.use(express.static(reactServerURL));
 
-sequelize.sync({ }).then(() => {
-  console.log('Database synced!');
-});
+// Redirect requests for CSS and JavaScript files to the remote server
+app.get('/', createProxyMiddleware({
+  target: reactServerURL,
+  changeOrigin: true,
+}));
 
-app.get('/', (req, res) => {
-  res.send('Hello, world!');
-});
+// Redirect requests for CSS and JavaScript files to the remote server
+app.get('/index.css', createProxyMiddleware({
+  target: reactServerURL,
+  changeOrigin: true,
+}));
+
+app.get('/index.js', createProxyMiddleware({
+  target: reactServerURL,
+  changeOrigin: true,
+}));
+
+app.use('/image1.jpg', createProxyMiddleware({
+  target: reactServerURL,
+  changeOrigin: true,
+}));
+
+app.use('/image2.jpg', createProxyMiddleware({
+  target: reactServerURL,
+  changeOrigin: true,
+}));
+
+app.use('/image3.jpg', createProxyMiddleware({
+  target: reactServerURL,
+  changeOrigin: true,
+}));
+
+app.use('/static', createProxyMiddleware({
+  target: reactServerURL,
+  changeOrigin: true,
+}));
+
+app.get('/all_subscriptions', (req, res) => {
+  resp = getRequest(process.env.FE_HOST, process.env.FE_PORT, "/");
+  res.setHeader('Content-Type', 'text/html');
+  res.status(resp.status).send(resp.message);
+})
+
 
 app.post('/create_user', async (req, res) => {
-  let data = req.body;
-  console.log(data)
-
-  sequelize.sync().then(() => {
-    User.create({
-      username: data.username,
-      email: data.email,
-      password: data.password
-    }).then(resp=> {
-        res.status(200).send("user created")
-    }).catch((error) => {
-      console.log(error)
-      res.status(500).send(`Failed to create a new record: ${JSON.stringify(error)}`);
+  postRequest(process.env.DB_HOST, process.env.DB_PORT, "/create_user", req.body)
+    .then((resp) => {
+      console.log(resp);
+      res.status(resp.status).send(JSON.stringify(resp.message));
+    })
+    .catch((error) => {
+      console.error(error);
+      res.status(500).send('Error');
     });
-  })
 });
 
 app.post('/create_magazine', (req, res) => {
-  let data = req.body;
-  console.log(data)
-
-  sequelize.sync().then(() => {
-    Magazine.create({
-      name: data.name,
-      publisher: data.publisher
-    }).then(resp=> {
-        res.status(200).send("magazine created")
-    }).catch((error) => {
-      console.log(error)
-      res.status(500).send(`Failed to create a new record: ${JSON.stringify(error)}`);
+  postRequest(process.env.DB_HOST, process.env.DB_PORT, "/create_magazine", req.body)
+    .then((resp) => {
+      console.log(resp);
+      res.status(resp.status).send(JSON.stringify(resp.message));
+    })
+    .catch((error) => {
+      console.error(error);
+      res.status(500).send('Error');
     });
-  })
 });
 
 app.post('/create_subscription', (req, res) => {
-  let data = req.body;
-  console.log(data)
-    
-  sequelize.sync().then(() => {
-    Subscription.create({
-      startDate: data.startDate,
-      endDate: data.endDate,
-      UserId: data.UserId,
-      MagazineId: data.MagazineId,
-    }).then(resp=> {
-        res.status(200).send("Subscription created")
-    }).catch((error) => {
-      console.log(error)
-      res.status(500).send(`Failed to create a new record: ${JSON.stringify(error)}`);
+  postRequest(process.env.DB_HOST, process.env.DB_PORT, "/create_subscription", req.body)
+    .then((resp) => {
+      console.log(resp);
+      res.status(resp.status).send(JSON.stringify(resp.message));
+    })
+    .catch((error) => {
+      console.error(error);
+      res.status(500).send('Error');
     });
-  })
 });
 
 app.get('/subscriptions', (req, res) => {
-  console.log("subscription")
-  Subscription.findAll({
-    attributes: ['startDate', 'endDate'],
-    include: [
-      {
-        model: User,
-        attributes: ['username', 'email'],
-      },
-      {
-        model: Magazine,
-        attributes: ['name', 'publisher'],
-      },
-    ],
-  }).then(subscriptions => {
-    res.status(200).send(subscriptions)
-  }).catch(error => {
-    console.error(error);
-    res.status(500).send(JSON.stringify(error))
-  });
+  getRequest(process.env.DB_HOST, process.env.DB_PORT, "/subscriptions")
+    .then((resp) => {
+      res.setHeader('Content-Type', 'text/html');
+      console.log(resp);
+      res.status(resp.status).send(resp.message);
+    })
+    .catch((error) => {
+      console.error(error);
+      res.status(500).send('Error');
+    });
 })
 
-app.get("/batch", (req, res) => {
-  const request = http.request(options, (resp) => {
-    console.log(`statusCode: ${resp.statusCode}`);
-
-    resp.on("data", (d) => {
-      process.stdout.write(d);
+app.get('/batch', (req, res) => {
+  getRequest(process.env.BATCH_HOST, process.env.BATCH_PORT, "/batch")
+    .then((resp) => {
+      res.setHeader('Content-Type', 'text/html');
+      console.log(resp);
+      res.status(resp.status).send(resp.message);
+    })
+    .catch((error) => {
+      console.error(error);
+      res.status(500).send('Error');
     });
-  });
-
-  request.on("error", (error) => {
-    res.status(500).send("error")
-  });
-
-  request.end();
-  res.status(200).send("Job completed")
 });
 
  app.listen(port, () => {
   console.log(`Server running on port ${port}`);
-}); 
+});
+
+function postRequest(host, port, route, data) {
+  return new Promise((resolve, reject) => {
+    const requestData = JSON.stringify(data);
+
+    const options = {
+      hostname: host,
+      port: port,
+      path: route,
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Content-Length': Buffer.byteLength(requestData)
+      }
+    };
+
+    const request = http.request(options, (resp) => {
+      let responseData = '';
+
+      resp.on('data', (chunk) => {
+        responseData += chunk;
+      });
+
+      resp.on('end', () => {
+        resolve({ status: resp.statusCode, message: responseData.toString() });
+      });
+    });
+
+    request.on('error', (error) => {
+      reject({ status: 500, message: 'Error: ' + error.toString() });
+    });
+
+    request.write(requestData);
+    request.end();
+  });
+}
+
+function getRequest(host, port, route) {
+  return new Promise((resolve, reject) => {
+    const request = http.request({
+      hostname: host,
+      port: port,
+      path: route,
+      method: 'GET'
+    }, (resp) => {
+      let responseData = '';
+
+      resp.on('data', (chunk) => {
+        responseData += chunk;
+      });
+
+      resp.on('end', () => {
+        resolve({ status: resp.statusCode, message: responseData.toString() });
+      });
+    });
+
+    request.on('error', (error) => {
+      reject({ status: 500, message: 'Error: ' + error.toString() });
+    });
+
+    request.end();
+  });
+}

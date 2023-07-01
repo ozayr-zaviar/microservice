@@ -5,13 +5,14 @@ const { spawn } = require('child_process');
 
 const app = express();
 app.use(cors());
-const port = process.env.PORT || 6000;
+const port = process.env.PORT || 80;
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
 
 app.get('/batch', (req, res) => {
     // Spawn a new Python process
+    error_flag = false
     const pythonProcess = spawn('python3', ['job.py']);
 
     // Listen for data from the Python script
@@ -29,7 +30,9 @@ app.get('/batch', (req, res) => {
       console.log(`Python script exited with code ${code}`);
     });
 
-    res.status(200).send("Job started")
+    if (!error_flag) {
+      res.status(200).send("Job started")
+    }
 });
 
  app.listen(port, () => {

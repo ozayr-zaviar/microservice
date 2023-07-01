@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 
 def compute_moves():
     start_time = datetime.now()
-    end_time = start_time + timedelta(minutes=1)
+    end_time = start_time + timedelta(minutes=10)
     board = chess.Board()
     legal_moves = list(board.legal_moves)
     turn = 0
