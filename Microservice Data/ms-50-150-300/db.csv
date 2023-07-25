@@ -1,0 +1,1051 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1688257956929,1174,Create User,200,OK,DB 2-12,text,true,,250,418,150,474,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1174,0,229
+1688257956873,1257,Create User,200,OK,DB 2-4,text,true,,250,418,150,474,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1257,0,282
+1688257956970,1197,Create User,200,OK,DB 2-18,text,true,,250,418,150,473,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1197,0,201
+1688257956893,1279,Create User,200,OK,DB 2-7,text,true,,250,418,150,473,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1279,0,264
+1688257956887,1291,Create User,200,OK,DB 2-6,text,true,,250,418,150,473,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1291,0,279
+1688257956880,1298,Create User,200,OK,DB 2-5,text,true,,250,418,150,473,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1298,0,280
+1688257956943,1243,Create User,200,OK,DB 2-14,text,true,,250,418,150,473,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1243,0,214
+1688257956957,1230,Create User,200,OK,DB 2-16,text,true,,250,418,150,473,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1230,0,209
+1688257956950,1240,Create User,200,OK,DB 2-15,text,true,,250,418,150,473,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1240,0,216
+1688257956852,1340,Create User,200,OK,DB 2-1,text,true,,250,418,150,473,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1340,0,314
+1688257956936,1256,Create User,200,OK,DB 2-13,text,true,,250,418,150,473,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1256,0,228
+1688257956859,1339,Create User,200,OK,DB 2-2,text,true,,250,418,150,473,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1339,0,304
+1688257956984,1222,Create User,200,OK,DB 2-20,text,true,,250,418,150,473,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1222,0,196
+1688257956991,1225,Create User,200,OK,DB 2-21,text,true,,250,418,150,472,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1225,0,200
+1688257956901,1336,Create User,200,OK,DB 2-8,text,true,,250,418,150,472,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1336,0,265
+1688257956866,1372,Create User,200,OK,DB 2-3,text,true,,250,418,150,472,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1372,0,304
+1688257956908,1352,Create User,200,OK,DB 2-9,text,true,,250,418,150,471,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1352,0,261
+1688257956915,1362,Create User,200,OK,DB 2-10,text,true,,250,418,150,471,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1362,0,254
+1688257956964,1319,Create User,200,OK,DB 2-17,text,true,,250,418,150,471,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1319,0,207
+1688257956922,1362,Create User,200,OK,DB 2-11,text,true,,250,418,150,471,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1362,0,245
+1688257956978,1306,Create User,200,OK,DB 2-19,text,true,,250,418,150,471,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1306,0,207
+1688257956999,1288,Create User,200,OK,DB 2-22,text,true,,250,418,150,471,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1288,0,196
+1688257957012,1279,Create User,200,OK,DB 2-24,text,true,,250,418,150,471,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1279,0,206
+1688257957047,1276,Create User,200,OK,DB 2-29,text,true,,250,418,150,470,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1276,0,200
+1688257957041,1289,Create User,200,OK,DB 2-28,text,true,,250,418,150,470,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1289,0,197
+1688257957005,1336,Create User,200,OK,DB 2-23,text,true,,250,418,150,470,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1336,0,208
+1688257957027,1322,Create User,200,OK,DB 2-26,text,true,,250,418,150,470,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1322,0,202
+1688257957033,1316,Create User,200,OK,DB 2-27,text,true,,250,418,150,470,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1316,0,208
+1688257957069,1293,Create User,200,OK,DB 2-32,text,true,,250,418,150,469,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1293,0,195
+1688257957075,1288,Create User,200,OK,DB 2-33,text,true,,250,418,150,469,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1288,0,196
+1688257957020,1344,Create User,200,OK,DB 2-25,text,true,,250,418,150,469,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1344,0,200
+1688257957054,1311,Create User,200,OK,DB 2-30,text,true,,250,418,150,469,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1311,0,200
+1688257957062,1381,Create User,200,OK,DB 2-31,text,true,,250,418,150,468,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1381,0,206
+1688257957096,1397,Create User,200,OK,DB 2-36,text,true,,250,418,150,467,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1397,0,194
+1688257957090,1411,Create User,200,OK,DB 2-35,text,true,,250,418,150,467,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1411,0,203
+1688257957103,1431,Create User,200,OK,DB 2-37,text,true,,250,418,150,466,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1431,0,198
+1688257957083,1462,Create User,200,OK,DB 2-34,text,true,,250,418,150,466,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1462,0,214
+1688257957111,1539,Create User,200,OK,DB 2-38,text,true,,250,418,150,464,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1539,0,211
+1688257957117,1535,Create User,200,OK,DB 2-39,text,true,,250,418,150,464,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1535,0,205
+1688257957153,1562,Create User,200,OK,DB 2-44,text,true,,250,418,150,463,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1562,0,196
+1688257957146,1594,Create User,200,OK,DB 2-43,text,true,,250,418,150,462,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1594,0,211
+1688257957159,1598,Create User,200,OK,DB 2-45,text,true,,250,418,150,462,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1598,0,198
+1688257957132,1625,Create User,200,OK,DB 2-41,text,true,,250,418,150,462,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1625,0,216
+1688257957167,1597,Create User,200,OK,DB 2-46,text,true,,250,418,150,462,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1597,0,197
+1688257957137,1633,Create User,200,OK,DB 2-42,text,true,,250,418,150,462,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1633,0,211
+1688257957174,1629,Create User,200,OK,DB 2-47,text,true,,250,418,150,462,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1629,0,206
+1688257957180,1670,Create User,200,OK,DB 2-48,text,true,,250,418,150,461,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1670,0,211
+1688257957216,1682,Create User,200,OK,DB 2-53,text,true,,250,418,150,460,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1682,0,196
+1688257957195,1734,Create User,200,OK,DB 2-50,text,true,,250,418,150,460,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1734,0,206
+1688257957201,1827,Create User,200,OK,DB 2-51,text,true,,250,418,150,458,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1827,0,216
+1688257957209,1834,Create User,200,OK,DB 2-52,text,true,,250,418,150,458,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1834,0,209
+1688257957230,1844,Create User,200,OK,DB 2-55,text,true,,250,418,150,457,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1844,0,201
+1688257957237,1848,Create User,200,OK,DB 2-56,text,true,,250,418,150,457,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1848,0,198
+1688257957258,1849,Create User,200,OK,DB 2-59,text,true,,250,418,150,457,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1849,0,198
+1688257957243,1866,Create User,200,OK,DB 2-57,text,true,,250,418,150,457,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1866,0,198
+1688257957222,1921,Create User,200,OK,DB 2-54,text,true,,250,418,150,457,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1921,0,206
+1688257957270,1875,Create User,200,OK,DB 2-61,text,true,,250,418,150,457,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1875,0,198
+1688257957250,1896,Create User,200,OK,DB 2-58,text,true,,250,418,150,457,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1896,0,205
+1688257957265,1882,Create User,200,OK,DB 2-60,text,true,,250,418,150,457,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1882,0,195
+1688257957300,1939,Create User,200,OK,DB 2-65,text,true,,250,418,150,456,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1939,0,196
+1688257957279,1964,Create User,200,OK,DB 2-62,text,true,,250,418,150,456,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,1964,0,205
+1688257957286,2008,Create User,200,OK,DB 2-63,text,true,,250,418,150,455,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2008,0,213
+1688257957125,2224,Create User,200,OK,DB 2-40,text,true,,250,418,150,454,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2224,0,210
+1688257957293,2067,Create User,200,OK,DB 2-64,text,true,,250,418,150,454,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2067,0,208
+1688257957313,2070,Create User,200,OK,DB 2-67,text,true,,250,418,150,453,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2070,0,199
+1688257957320,2064,Create User,200,OK,DB 2-68,text,true,,250,418,150,453,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2064,0,199
+1688257957328,2069,Create User,200,OK,DB 2-69,text,true,,250,418,150,453,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2068,0,195
+1688257957188,2221,Create User,200,OK,DB 2-49,text,true,,250,418,150,453,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2221,0,196
+1688257957308,2163,Create User,200,OK,DB 2-66,text,true,,250,418,150,452,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2162,0,210
+1688257957335,2272,Create User,200,OK,DB 2-70,text,true,,250,418,150,450,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2272,0,206
+1688257957349,2332,Create User,200,OK,DB 2-72,text,true,,250,418,150,449,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2332,0,207
+1688257957341,2360,Create User,200,OK,DB 2-71,text,true,,250,418,150,449,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2360,0,216
+1688257957356,2383,Create User,200,OK,DB 2-73,text,true,,250,418,150,449,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2383,0,206
+1688257957377,2362,Create User,200,OK,DB 2-76,text,true,,250,418,150,449,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2362,0,200
+1688257957390,2352,Create User,200,OK,DB 2-78,text,true,,250,418,150,449,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2352,0,198
+1688257957398,2347,Create User,200,OK,DB 2-79,text,true,,250,418,150,449,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2347,0,206
+1688257957363,2384,Create User,200,OK,DB 2-74,text,true,,250,418,150,449,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2384,0,211
+1688257957408,2344,Create User,200,OK,DB 2-80,text,true,,250,418,150,449,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2344,0,200
+1688257957384,2369,Create User,200,OK,DB 2-77,text,true,,250,418,150,449,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2369,0,212
+1688257957369,2389,Create User,200,OK,DB 2-75,text,true,,250,418,150,449,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2389,0,209
+1688257957426,2373,Create User,200,OK,DB 2-83,text,true,,250,418,150,448,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2373,0,206
+1688257957418,2384,Create User,200,OK,DB 2-82,text,true,,250,418,150,448,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2384,0,205
+1688257957412,2390,Create User,200,OK,DB 2-81,text,true,,250,418,150,448,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2390,0,211
+1688257957460,2374,Create User,200,OK,DB 2-88,text,true,,250,418,150,448,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2374,0,206
+1688257957439,2396,Create User,200,OK,DB 2-85,text,true,,250,418,150,448,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2396,0,197
+1688257957433,2408,Create User,200,OK,DB 2-84,text,true,,250,418,150,448,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2408,0,207
+1688257957454,2388,Create User,200,OK,DB 2-87,text,true,,250,418,150,448,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2388,0,212
+1688257957468,2377,Create User,200,OK,DB 2-89,text,true,,250,418,150,448,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2377,0,200
+1688257957446,2399,Create User,200,OK,DB 2-86,text,true,,250,418,150,448,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2399,0,214
+1688257957496,2351,Create User,200,OK,DB 2-93,text,true,,250,418,150,448,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2351,0,196
+1688257957502,2347,Create User,200,OK,DB 2-94,text,true,,250,418,150,448,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2347,0,206
+1688257957489,2362,Create User,200,OK,DB 2-92,text,true,,250,418,150,448,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2362,0,204
+1688257957537,2320,Create User,200,OK,DB 2-99,text,true,,250,418,150,448,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2320,0,197
+1688257957474,2385,Create User,200,OK,DB 2-90,text,true,,250,418,150,448,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2385,0,217
+1688257957481,2378,Create User,200,OK,DB 2-91,text,true,,250,418,150,448,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2378,0,215
+1688257957544,2316,Create User,200,OK,DB 2-100,text,true,,250,418,150,448,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2316,0,200
+1688257957530,2331,Create User,200,OK,DB 2-98,text,true,,250,418,150,448,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2331,0,212
+1688257957510,2352,Create User,200,OK,DB 2-95,text,true,,250,418,150,448,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2352,0,203
+1688257957524,2344,Create User,200,OK,DB 2-97,text,true,,250,418,150,448,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2344,0,217
+1688257957565,2316,Create User,200,OK,DB 2-103,text,true,,250,418,150,448,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2316,0,205
+1688257957517,2367,Create User,200,OK,DB 2-96,text,true,,250,418,150,448,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2367,0,208
+1688257957589,2297,Create User,200,OK,DB 2-106,text,true,,250,418,150,448,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2297,0,197
+1688257957593,2300,Create User,200,OK,DB 2-107,text,true,,250,418,150,448,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2300,0,201
+1688257957580,2313,Create User,200,OK,DB 2-105,text,true,,250,418,150,448,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2313,0,206
+1688257957552,2342,Create User,200,OK,DB 2-101,text,true,,250,418,150,448,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2342,0,217
+1688257957573,2323,Create User,200,OK,DB 2-104,text,true,,250,418,150,448,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2323,0,217
+1688257957559,2339,Create User,200,OK,DB 2-102,text,true,,250,418,150,448,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2339,0,211
+1688257957615,2283,Create User,200,OK,DB 2-110,text,true,,250,418,150,448,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2283,0,200
+1688257957600,2302,Create User,200,OK,DB 2-108,text,true,,250,418,150,448,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2302,0,204
+1688257957609,2296,Create User,200,OK,DB 2-109,text,true,,250,418,150,448,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2296,0,210
+1688257957621,2305,Create User,200,OK,DB 2-111,text,true,,250,418,150,448,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2305,0,203
+1688257957628,2302,Create User,200,OK,DB 2-112,text,true,,250,418,150,448,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2302,0,199
+1688257957643,2289,Create User,200,OK,DB 2-114,text,true,,250,418,150,448,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2289,0,200
+1688257957649,2286,Create User,200,OK,DB 2-115,text,true,,250,418,150,448,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2286,0,204
+1688257957656,2281,Create User,200,OK,DB 2-116,text,true,,250,418,150,448,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2281,0,202
+1688257957664,2291,Create User,200,OK,DB 2-117,text,true,,250,418,150,447,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2291,0,196
+1688257957677,2278,Create User,200,OK,DB 2-119,text,true,,250,418,150,447,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2278,0,199
+1688257957671,2286,Create User,200,OK,DB 2-118,text,true,,250,418,150,447,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2286,0,203
+1688257957636,2323,Create User,200,OK,DB 2-113,text,true,,250,418,150,447,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2323,0,211
+1688257957684,2310,Create User,200,OK,DB 2-120,text,true,,250,418,150,447,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2310,0,213
+1688257957727,2263,Create User,200,OK,DB 2-126,text,true,,250,418,150,447,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2263,0,200
+1688257957692,2292,Create User,200,OK,DB 2-121,text,true,,250,418,150,447,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2292,0,205
+1688257957699,2287,Create User,200,OK,DB 2-122,text,true,,250,418,150,447,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2287,0,203
+1688257957705,2291,Create User,200,OK,DB 2-123,text,true,,250,418,150,447,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2291,0,202
+1688257957740,2257,Create User,200,OK,DB 2-128,text,true,,250,418,150,446,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2257,0,201
+1688257957720,2295,Create User,200,OK,DB 2-125,text,true,,250,418,150,446,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2295,0,206
+1688257957733,2290,Create User,200,OK,DB 2-127,text,true,,250,418,150,446,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2290,0,206
+1688257957712,2313,Create User,200,OK,DB 2-124,text,true,,250,418,150,446,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2313,0,212
+1688257957755,2272,Create User,200,OK,DB 2-130,text,true,,250,418,150,446,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2272,0,196
+1688257957761,2305,Create User,200,OK,DB 2-131,text,true,,250,418,150,445,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2305,0,207
+1688257957775,2291,Create User,200,OK,DB 2-133,text,true,,250,418,150,445,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2291,0,205
+1688257957748,2321,Create User,200,OK,DB 2-129,text,true,,250,418,150,445,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2321,0,211
+1688257957768,2302,Create User,200,OK,DB 2-132,text,true,,250,418,150,445,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2302,0,212
+1688257957783,2288,Create User,200,OK,DB 2-134,text,true,,250,418,150,445,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2288,0,199
+1688257957811,2267,Create User,200,OK,DB 2-138,text,true,,250,418,150,445,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2267,0,196
+1688257957796,2283,Create User,200,OK,DB 2-136,text,true,,250,418,150,445,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2283,0,209
+1688257957824,2257,Create User,200,OK,DB 2-140,text,true,,250,418,150,445,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2257,0,198
+1688257957818,2272,Create User,200,OK,DB 2-139,text,true,,250,418,150,445,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2272,0,211
+1688257957803,2287,Create User,200,OK,DB 2-137,text,true,,250,418,150,445,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2287,0,212
+1688257957791,2302,Create User,200,OK,DB 2-135,text,true,,250,418,150,445,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2302,0,216
+1688257957859,2253,Create User,200,OK,DB 2-145,text,true,,250,418,150,445,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2253,0,195
+1688257957831,2282,Create User,200,OK,DB 2-141,text,true,,250,418,150,445,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2282,0,207
+1688257957846,2269,Create User,200,OK,DB 2-143,text,true,,250,418,150,445,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2269,0,199
+1688257957867,2250,Create User,200,OK,DB 2-146,text,true,,250,418,150,445,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2250,0,197
+1688257957839,2285,Create User,200,OK,DB 2-142,text,true,,250,418,150,445,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2285,0,210
+1688257957881,2245,Create User,200,OK,DB 2-148,text,true,,250,418,150,445,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2245,0,198
+1688257957852,2282,Create User,200,OK,DB 2-144,text,true,,250,418,150,444,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2282,0,212
+1688257957874,2295,Create User,200,OK,DB 2-147,text,true,,250,418,150,444,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2295,0,213
+1688257958133,2036,Create Magazine,200,OK,DB 2-4,text,true,,255,358,150,444,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2036,0,0
+1688257957895,2275,Create User,200,OK,DB 2-150,text,true,,250,418,150,444,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2275,0,211
+1688257958103,2069,Create Magazine,200,OK,DB 2-12,text,true,,255,358,150,444,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2069,0,0
+1688257957887,2288,Create User,200,OK,DB 2-149,text,true,,250,418,150,444,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_user,2288,0,213
+1688257958178,2020,Create Magazine,200,OK,DB 2-6,text,true,,255,358,150,444,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2020,0,0
+1688257958172,2027,Create Magazine,200,OK,DB 2-7,text,true,,255,358,150,444,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2027,0,0
+1688257958167,2033,Create Magazine,200,OK,DB 2-18,text,true,,255,358,150,444,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2033,0,0
+1688257958179,2039,Create Magazine,200,OK,DB 2-5,text,true,,255,358,150,444,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2039,0,0
+1688257958187,2031,Create Magazine,200,OK,DB 2-14,text,true,,255,358,150,444,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2031,0,0
+1688257958198,2020,Create Magazine,200,OK,DB 2-2,text,true,,255,358,150,444,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2020,0,0
+1688257958192,2027,Create Magazine,200,OK,DB 2-1,text,true,,255,358,150,444,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2027,0,0
+1688257958188,2058,Create Magazine,200,OK,DB 2-16,text,true,,255,358,150,444,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2058,0,0
+1688257958206,2057,Create Magazine,200,OK,DB 2-20,text,true,,255,358,150,444,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2057,0,0
+1688257958190,2078,Create Magazine,200,OK,DB 2-15,text,true,,255,358,150,444,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2078,0,0
+1688257958216,2054,Create Magazine,200,OK,DB 2-21,text,true,,255,358,150,444,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2054,0,0
+1688257958193,2106,Create Magazine,200,OK,DB 2-13,text,true,,255,358,150,443,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2106,0,0
+1688257958238,2158,Create Magazine,200,OK,DB 2-8,text,true,,255,358,150,441,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2158,0,0
+1688257958239,2164,Create Magazine,200,OK,DB 2-3,text,true,,255,358,150,441,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2164,0,0
+1688257958260,2161,Create Magazine,200,OK,DB 2-9,text,true,,255,358,150,441,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2161,0,0
+1688257958284,2163,Create Magazine,200,OK,DB 2-19,text,true,,255,358,150,440,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2163,0,0
+1688257958287,2167,Create Magazine,200,OK,DB 2-22,text,true,,255,358,150,440,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2167,0,0
+1688257958277,2184,Create Magazine,200,OK,DB 2-10,text,true,,255,358,150,440,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2184,0,0
+1688257958284,2182,Create Magazine,200,OK,DB 2-17,text,true,,255,358,150,440,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2182,0,0
+1688257958291,2177,Create Magazine,200,OK,DB 2-24,text,true,,255,358,150,440,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2177,0,0
+1688257958284,2188,Create Magazine,200,OK,DB 2-11,text,true,,255,358,150,440,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2188,0,0
+1688257958323,2166,Create Magazine,200,OK,DB 2-29,text,true,,255,358,150,440,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2166,0,0
+1688257958331,2155,Create Magazine,200,OK,DB 2-28,text,true,,255,358,150,440,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2155,0,0
+1688257958349,2186,Create Magazine,200,OK,DB 2-26,text,true,,255,358,150,440,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2186,0,0
+1688257958341,2223,Create Magazine,200,OK,DB 2-23,text,true,,255,358,150,440,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2223,0,0
+1688257958362,2225,Create Magazine,200,OK,DB 2-32,text,true,,255,358,150,439,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2225,0,0
+1688257958349,2240,Create Magazine,200,OK,DB 2-27,text,true,,255,358,150,439,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2240,0,0
+1688257958363,2231,Create Magazine,200,OK,DB 2-33,text,true,,255,358,150,439,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2231,0,0
+1688257958364,2231,Create Magazine,200,OK,DB 2-25,text,true,,255,358,150,439,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2231,0,0
+1688257958365,2235,Create Magazine,200,OK,DB 2-30,text,true,,255,358,150,439,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2235,0,0
+1688257958444,2247,Create Magazine,200,OK,DB 2-31,text,true,,255,358,150,438,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2247,0,0
+1688257958493,2236,Create Magazine,200,OK,DB 2-36,text,true,,255,358,150,438,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2236,0,0
+1688257958501,2278,Create Magazine,200,OK,DB 2-35,text,true,,255,358,150,437,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2278,0,0
+1688257958534,2280,Create Magazine,200,OK,DB 2-37,text,true,,255,358,150,437,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2280,0,0
+1688257958546,2291,Create Magazine,200,OK,DB 2-34,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2291,0,0
+1688257958652,2354,Create Magazine,200,OK,DB 2-39,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2354,0,0
+1688257958651,2377,Create Magazine,200,OK,DB 2-38,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2377,0,0
+1688257958716,2326,Create Magazine,200,OK,DB 2-44,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2326,0,0
+1688257958741,2321,Create Magazine,200,OK,DB 2-43,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2321,0,0
+1688257958757,2305,Create Magazine,200,OK,DB 2-45,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2305,0,0
+1688257958764,2303,Create Magazine,200,OK,DB 2-46,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2303,0,0
+1688257958803,2274,Create Magazine,200,OK,DB 2-47,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2274,0,0
+1688257958758,2324,Create Magazine,200,OK,DB 2-41,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2324,0,0
+1688257958850,2238,Create Magazine,200,OK,DB 2-48,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2238,0,0
+1688257958770,2318,Create Magazine,200,OK,DB 2-42,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2318,0,0
+1688257958898,2204,Create Magazine,200,OK,DB 2-53,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2204,0,0
+1688257958929,2206,Create Magazine,200,OK,DB 2-50,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2206,0,0
+1688257960175,982,Create Subscription,200,OK,DB 2-12,text,true,,259,445,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,982,0,0
+1688257960170,995,Create Subscription,200,OK,DB 2-4,text,true,,259,445,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,995,0,0
+1688257960199,971,Create Subscription,200,OK,DB 2-7,text,true,,259,445,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,971,0,0
+1688257960200,974,Create Subscription,200,OK,DB 2-18,text,true,,259,445,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,974,0,0
+1688257960198,991,Create Subscription,200,OK,DB 2-6,text,true,,259,445,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,991,0,0
+1688257960218,995,Create Subscription,200,OK,DB 2-5,text,true,,259,445,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,995,0,0
+1688257960218,1010,Create Subscription,200,OK,DB 2-14,text,true,,259,445,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1010,0,0
+1688257960220,1031,Create Subscription,200,OK,DB 2-1,text,true,,259,445,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1031,0,0
+1688257960219,1055,Create Subscription,200,OK,DB 2-2,text,true,,259,445,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1055,0,0
+1688257960246,1059,Create Subscription,200,OK,DB 2-16,text,true,,259,445,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1059,0,0
+1688257960264,1059,Create Subscription,200,OK,DB 2-20,text,true,,259,445,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1059,0,0
+1688257961158,204,"Get Subscriptions ""/""",200,OK,DB 2-12,text,true,,720,157,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,204,0,0
+1688257961167,198,"Get Subscriptions ""/""",200,OK,DB 2-4,text,true,,720,157,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,198,0,0
+1688257961170,200,"Get Subscriptions ""/""",200,OK,DB 2-7,text,true,,720,157,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,200,0,0
+1688257961174,202,"Get Subscriptions ""/""",200,OK,DB 2-18,text,true,,720,157,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,202,0,0
+1688257960270,1112,Create Subscription,200,OK,DB 2-21,text,true,,259,445,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1112,0,0
+1688257960268,1115,Create Subscription,200,OK,DB 2-15,text,true,,259,445,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1115,0,0
+1688257959074,2318,Create Magazine,200,OK,DB 2-55,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2318,0,0
+1688257959044,2349,Create Magazine,200,OK,DB 2-52,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2349,0,0
+1688257959028,2365,Create Magazine,200,OK,DB 2-51,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2365,0,0
+1688257960300,1094,Create Subscription,200,OK,DB 2-13,text,true,,259,445,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1094,0,0
+1688257961190,208,"Get Subscriptions ""/""",200,OK,DB 2-6,text,true,,720,157,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,208,0,0
+1688257959086,2312,Create Magazine,200,OK,DB 2-56,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2312,0,0
+1688257959109,2299,Create Magazine,200,OK,DB 2-57,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2299,0,0
+1688257959107,2301,Create Magazine,200,OK,DB 2-59,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2301,0,0
+1688257959145,2265,Create Magazine,200,OK,DB 2-61,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2265,0,0
+1688257961214,202,"Get Subscriptions ""/""",200,OK,DB 2-5,text,true,,720,157,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,202,0,0
+1688257959146,2272,Create Magazine,200,OK,DB 2-58,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2272,0,0
+1688257959147,2271,Create Magazine,200,OK,DB 2-60,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2271,0,0
+1688257959239,2181,Create Magazine,200,OK,DB 2-65,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2181,0,0
+1688257959143,2279,Create Magazine,200,OK,DB 2-54,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2279,0,0
+1688257959243,2182,Create Magazine,200,OK,DB 2-62,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2182,0,0
+1688257961228,205,"Get Subscriptions ""/""",200,OK,DB 2-14,text,true,,720,157,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,205,0,0
+1688257960403,1051,Create Subscription,200,OK,DB 2-3,text,true,,259,445,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1051,0,0
+1688257960397,1061,Create Subscription,200,OK,DB 2-8,text,true,,259,445,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1061,0,0
+1688257961252,208,"Get Subscriptions ""/""",200,OK,DB 2-1,text,true,,720,157,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,208,0,0
+1688257960421,1044,Create Subscription,200,OK,DB 2-9,text,true,,259,445,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1044,0,0
+1688257960454,1014,Create Subscription,200,OK,DB 2-22,text,true,,259,445,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1014,0,0
+1688257961274,206,"Get Subscriptions ""/""",200,OK,DB 2-2,text,true,,720,157,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,206,0,0
+1688257960448,1032,Create Subscription,200,OK,DB 2-19,text,true,,259,445,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1032,0,0
+1688257959294,2188,Create Magazine,200,OK,DB 2-63,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2188,0,0
+1688257959384,2099,Create Magazine,200,OK,DB 2-68,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2099,0,0
+1688257959349,2141,Create Magazine,200,OK,DB 2-40,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2141,0,0
+1688257960466,1025,Create Subscription,200,OK,DB 2-17,text,true,,259,445,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1025,0,0
+1688257960461,1032,Create Subscription,200,OK,DB 2-10,text,true,,259,445,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1032,0,0
+1688257960472,1022,Create Subscription,200,OK,DB 2-11,text,true,,259,445,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1022,0,0
+1688257960564,965,Create Subscription,200,OK,DB 2-23,text,true,,259,445,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,965,0,0
+1688257960535,993,Create Subscription,200,OK,DB 2-26,text,true,,259,445,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,993,0,0
+1688257961323,198,"Get Subscriptions ""/""",200,OK,DB 2-20,text,true,,720,157,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,198,0,0
+1688257960506,1011,Create Subscription,200,OK,DB 2-28,text,true,,259,445,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1011,0,0
+1688257959384,2123,Create Magazine,200,OK,DB 2-67,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2123,0,0
+1688257960468,1034,Create Subscription,200,OK,DB 2-24,text,true,,259,445,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1034,0,0
+1688257959361,2141,Create Magazine,200,OK,DB 2-64,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2141,0,0
+1688257959397,2113,Create Magazine,200,OK,DB 2-69,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2113,0,0
+1688257960506,1008,Create Subscription,200,OK,DB 2-29,text,true,,259,445,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1008,0,0
+1688257959409,2096,Create Magazine,200,OK,DB 2-49,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2096,0,0
+1688257961305,209,"Get Subscriptions ""/""",200,OK,DB 2-16,text,true,,720,157,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,209,0,0
+1688257959475,2086,Create Magazine,200,OK,DB 2-66,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2086,0,0
+1688257960595,984,Create Subscription,200,OK,DB 2-33,text,true,,259,445,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,983,0,0
+1688257960587,992,Create Subscription,200,OK,DB 2-32,text,true,,259,445,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,992,0,0
+1688257960590,990,Create Subscription,200,OK,DB 2-27,text,true,,259,445,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,990,0,0
+1688257960595,991,Create Subscription,200,OK,DB 2-25,text,true,,259,445,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,991,0,0
+1688257961382,205,"Get Subscriptions ""/""",200,OK,DB 2-21,text,true,,720,157,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,205,0,0
+1688257960600,989,Create Subscription,200,OK,DB 2-30,text,true,,259,445,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,989,0,0
+1688257961383,212,"Get Subscriptions ""/""",200,OK,DB 2-15,text,true,,720,157,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,212,0,0
+1688257959607,1996,Create Magazine,200,OK,DB 2-70,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,1996,0,0
+1688257961394,209,"Get Subscriptions ""/""",200,OK,DB 2-13,text,true,,720,157,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,209,0,0
+1688257960691,955,Create Subscription,200,OK,DB 2-31,text,true,,259,445,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,955,0,0
+1688257960729,933,Create Subscription,200,OK,DB 2-36,text,true,,259,445,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,933,0,0
+1688257959681,1984,Create Magazine,200,OK,DB 2-72,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,1984,0,0
+1688257961454,212,"Get Subscriptions ""/""",200,OK,DB 2-3,text,true,,720,157,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,212,0,0
+1688257961458,209,"Get Subscriptions ""/""",200,OK,DB 2-8,text,true,,720,157,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,209,0,0
+1688257961469,201,"Get Subscriptions ""/""",200,OK,DB 2-22,text,true,,720,157,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,201,0,0
+1688257961465,212,"Get Subscriptions ""/""",200,OK,DB 2-9,text,true,,720,157,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,212,0,0
+1688257959702,1994,Create Magazine,200,OK,DB 2-71,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,1994,0,0
+1688257961491,208,"Get Subscriptions ""/""",200,OK,DB 2-17,text,true,,720,157,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,208,0,0
+1688257961493,212,"Get Subscriptions ""/""",200,OK,DB 2-10,text,true,,720,157,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,212,0,0
+1688257961494,212,"Get Subscriptions ""/""",200,OK,DB 2-11,text,true,,720,157,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,212,0,0
+1688257960780,939,Create Subscription,200,OK,DB 2-35,text,true,,259,445,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,939,0,0
+1688257961540,199,"Get Subscriptions ""/""",200,OK,DB 2-28,text,true,,720,157,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,199,0,0
+1688257961540,204,"Get Subscriptions ""/""",200,OK,DB 2-29,text,true,,720,157,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,204,0,0
+1688257961539,206,"Get Subscriptions ""/""",200,OK,DB 2-26,text,true,,720,157,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,206,0,0
+1688257961540,209,"Get Subscriptions ""/""",200,OK,DB 2-24,text,true,,720,157,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,209,0,0
+1688257961579,198,"Get Subscriptions ""/""",200,OK,DB 2-33,text,true,,720,157,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,198,0,0
+1688257961579,199,"Get Subscriptions ""/""",200,OK,DB 2-32,text,true,,720,157,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,199,0,0
+1688257961586,202,"Get Subscriptions ""/""",200,OK,DB 2-25,text,true,,720,157,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,202,0,0
+1688257961581,209,"Get Subscriptions ""/""",200,OK,DB 2-27,text,true,,720,157,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,209,0,0
+1688257961590,202,"Get Subscriptions ""/""",200,OK,DB 2-30,text,true,,720,157,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,202,0,0
+1688257960814,982,Create Subscription,200,OK,DB 2-37,text,true,,259,445,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,982,0,0
+1688257959740,2064,Create Magazine,200,OK,DB 2-73,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2064,0,0
+1688257961646,208,"Get Subscriptions ""/""",200,OK,DB 2-31,text,true,,720,157,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,208,0,0
+1688257961662,197,"Get Subscriptions ""/""",200,OK,DB 2-36,text,true,,720,157,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,197,0,0
+1688257959742,2150,Create Magazine,200,OK,DB 2-78,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2150,0,0
+1688257959752,2143,Create Magazine,200,OK,DB 2-80,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2143,0,0
+1688257959740,2177,Create Magazine,200,OK,DB 2-76,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2177,0,0
+1688257959745,2181,Create Magazine,200,OK,DB 2-79,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2181,0,0
+1688257959747,2204,Create Magazine,200,OK,DB 2-74,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2204,0,0
+1688257959758,2226,Create Magazine,200,OK,DB 2-75,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2226,0,0
+1688257959753,2242,Create Magazine,200,OK,DB 2-77,text,true,,255,358,150,436,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2242,0,0
+1688257959800,2243,Create Magazine,200,OK,DB 2-83,text,true,,255,358,150,435,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2243,0,0
+1688257959847,2191,Create Magazine,200,OK,DB 2-93,text,true,,255,358,150,435,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2191,0,0
+1688257959802,2219,Create Magazine,200,OK,DB 2-82,text,true,,255,358,150,435,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2219,0,0
+1688257960838,1177,Create Subscription,200,OK,DB 2-34,text,true,,259,445,150,435,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1177,0,0
+1688257959802,2256,Create Magazine,200,OK,DB 2-81,text,true,,255,358,150,435,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2256,0,0
+1688257959834,2249,Create Magazine,200,OK,DB 2-88,text,true,,255,358,150,434,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2249,0,0
+1688257959835,2256,Create Magazine,200,OK,DB 2-85,text,true,,255,358,150,434,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2256,0,0
+1688257959842,2255,Create Magazine,200,OK,DB 2-87,text,true,,255,358,150,434,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2255,0,0
+1688257959841,2303,Create Magazine,200,OK,DB 2-84,text,true,,255,358,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2303,0,0
+1688257959849,2297,Create Magazine,200,OK,DB 2-94,text,true,,255,358,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2296,0,0
+1688257959860,2286,Create Magazine,200,OK,DB 2-100,text,true,,255,358,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2286,0,0
+1688257959845,2303,Create Magazine,200,OK,DB 2-89,text,true,,255,358,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2303,0,0
+1688257959845,2307,Create Magazine,200,OK,DB 2-86,text,true,,255,358,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2307,0,0
+1688257959852,2301,Create Magazine,200,OK,DB 2-92,text,true,,255,358,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2301,0,0
+1688257959881,2273,Create Magazine,200,OK,DB 2-103,text,true,,255,358,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2273,0,0
+1688257959861,2293,Create Magazine,200,OK,DB 2-98,text,true,,255,358,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2293,0,0
+1688257959859,2297,Create Magazine,200,OK,DB 2-91,text,true,,255,358,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2297,0,0
+1688257959862,2296,Create Magazine,200,OK,DB 2-95,text,true,,255,358,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2296,0,0
+1688257959868,2296,Create Magazine,200,OK,DB 2-97,text,true,,255,358,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2296,0,0
+1688257961043,1150,Create Subscription,200,OK,DB 2-44,text,true,,259,445,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1150,0,0
+1688257959886,2309,Create Magazine,200,OK,DB 2-106,text,true,,255,358,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2309,0,0
+1688257959894,2301,Create Magazine,200,OK,DB 2-105,text,true,,255,358,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2301,0,0
+1688257959894,2303,Create Magazine,200,OK,DB 2-107,text,true,,255,358,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2303,0,0
+1688257959884,2314,Create Magazine,200,OK,DB 2-96,text,true,,255,358,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2314,0,0
+1688257961029,1173,Create Subscription,200,OK,DB 2-38,text,true,,259,445,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1173,0,0
+1688257961014,1189,Create Subscription,200,OK,DB 2-39,text,true,,259,445,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1189,0,0
+1688257959898,2307,Create Magazine,200,OK,DB 2-110,text,true,,255,358,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2307,0,0
+1688257961062,1144,Create Subscription,200,OK,DB 2-45,text,true,,259,445,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1144,0,0
+1688257959898,2308,Create Magazine,200,OK,DB 2-102,text,true,,255,358,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2308,0,0
+1688257959927,2279,Create Magazine,200,OK,DB 2-111,text,true,,255,358,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2279,0,0
+1688257959931,2277,Create Magazine,200,OK,DB 2-112,text,true,,255,358,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2277,0,0
+1688257961067,1142,Create Subscription,200,OK,DB 2-46,text,true,,259,445,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1142,0,0
+1688257959896,2313,Create Magazine,200,OK,DB 2-104,text,true,,255,358,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2313,0,0
+1688257959894,2315,Create Magazine,200,OK,DB 2-101,text,true,,255,358,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2315,0,0
+1688257959902,2312,Create Magazine,200,OK,DB 2-108,text,true,,255,358,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2312,0,0
+1688257961062,1153,Create Subscription,200,OK,DB 2-43,text,true,,259,445,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1153,0,0
+1688257961102,1113,Create Subscription,200,OK,DB 2-53,text,true,,259,445,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1113,0,0
+1688257961082,1138,Create Subscription,200,OK,DB 2-41,text,true,,259,445,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1138,0,0
+1688257961077,1143,Create Subscription,200,OK,DB 2-47,text,true,,259,445,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1143,0,0
+1688257961089,1133,Create Subscription,200,OK,DB 2-48,text,true,,259,445,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1133,0,0
+1688257959955,2270,Create Magazine,200,OK,DB 2-117,text,true,,255,358,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2270,0,0
+1688257959933,2292,Create Magazine,200,OK,DB 2-114,text,true,,255,358,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2292,0,0
+1688257961480,747,"Get Subscriptions ""/""",200,OK,DB 2-19,text,true,,720,157,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,746,0,0
+1688257959938,2291,Create Magazine,200,OK,DB 2-116,text,true,,255,358,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2291,0,0
+1688257959935,2295,Create Magazine,200,OK,DB 2-115,text,true,,255,358,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2295,0,0
+1688257961089,1143,Create Subscription,200,OK,DB 2-42,text,true,,259,445,150,433,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1143,0,0
+1688257961135,1123,Create Subscription,200,OK,DB 2-50,text,true,,259,445,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1123,0,0
+1688257959957,2304,Create Magazine,200,OK,DB 2-118,text,true,,255,358,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2304,0,0
+1688257959960,2307,Create Magazine,200,OK,DB 2-113,text,true,,255,358,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2307,0,0
+1688257959997,2271,Create Magazine,200,OK,DB 2-128,text,true,,255,358,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2271,0,0
+1688257959996,2272,Create Magazine,200,OK,DB 2-123,text,true,,255,358,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2272,0,0
+1688257959995,2275,Create Magazine,200,OK,DB 2-120,text,true,,255,358,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2275,0,0
+1688257960023,2249,Create Magazine,200,OK,DB 2-127,text,true,,255,358,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2249,0,0
+1688257959995,2278,Create Magazine,200,OK,DB 2-126,text,true,,255,358,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2278,0,0
+1688257959996,2278,Create Magazine,200,OK,DB 2-121,text,true,,255,358,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2278,0,0
+1688257962053,223,"Get Subscriptions ""/""",200,OK,DB 2-34,text,true,,720,157,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,223,0,0
+1688257959996,2280,Create Magazine,200,OK,DB 2-122,text,true,,255,358,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2280,0,0
+1688257960026,2257,Create Magazine,200,OK,DB 2-124,text,true,,255,358,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2257,0,0
+1688257961539,753,"Get Subscriptions ""/""",200,OK,DB 2-23,text,true,,720,157,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,753,0,0
+1688257960015,2277,Create Magazine,200,OK,DB 2-125,text,true,,255,358,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2277,0,0
+1688257960028,2268,Create Magazine,200,OK,DB 2-130,text,true,,255,358,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2268,0,0
+1688257960078,2219,Create Magazine,200,OK,DB 2-138,text,true,,255,358,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2219,0,0
+1688257960067,2239,Create Magazine,200,OK,DB 2-131,text,true,,255,358,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2239,0,0
+1688257960071,2263,Create Magazine,200,OK,DB 2-134,text,true,,255,358,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2263,0,0
+1688257960070,2265,Create Magazine,200,OK,DB 2-129,text,true,,255,358,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2265,0,0
+1688257960082,2257,Create Magazine,200,OK,DB 2-140,text,true,,255,358,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2257,0,0
+1688257960070,2271,Create Magazine,200,OK,DB 2-132,text,true,,255,358,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2271,0,0
+1688257960090,2256,Create Magazine,200,OK,DB 2-139,text,true,,255,358,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2256,0,0
+1688257960093,2254,Create Magazine,200,OK,DB 2-135,text,true,,255,358,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2254,0,0
+1688257960067,2295,Create Magazine,200,OK,DB 2-133,text,true,,255,358,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2295,0,0
+1688257960112,2255,Create Magazine,200,OK,DB 2-145,text,true,,255,358,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2255,0,0
+1688257960118,2252,Create Magazine,200,OK,DB 2-146,text,true,,255,358,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2252,0,0
+1688257960124,2254,Create Magazine,200,OK,DB 2-142,text,true,,255,358,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2254,0,0
+1688257960090,2301,Create Magazine,200,OK,DB 2-137,text,true,,255,358,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2301,0,0
+1688257962193,198,"Get Subscriptions ""/""",200,OK,DB 2-44,text,true,,720,157,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,198,0,0
+1688257960126,2270,Create Magazine,200,OK,DB 2-148,text,true,,255,358,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2270,0,0
+1688257960079,2319,Create Magazine,200,OK,DB 2-136,text,true,,255,358,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2319,0,0
+1688257960134,2272,Create Magazine,200,OK,DB 2-144,text,true,,255,358,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2272,0,0
+1688257962209,199,"Get Subscriptions ""/""",200,OK,DB 2-46,text,true,,720,157,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,199,0,0
+1688257962206,203,"Get Subscriptions ""/""",200,OK,DB 2-45,text,true,,720,157,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,203,0,0
+1688257962203,207,"Get Subscriptions ""/""",200,OK,DB 2-39,text,true,,720,157,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,207,0,0
+1688257962215,198,"Get Subscriptions ""/""",200,OK,DB 2-53,text,true,,720,157,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,198,0,0
+1688257962202,213,"Get Subscriptions ""/""",200,OK,DB 2-38,text,true,,720,157,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,213,0,0
+1688257960169,2248,Create Magazine,200,OK,DB 2-147,text,true,,255,358,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2248,0,0
+1688257960171,2247,Create Magazine,200,OK,DB 2-150,text,true,,255,358,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2247,0,0
+1688257960175,2247,Create Magazine,200,OK,DB 2-149,text,true,,255,358,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2247,0,0
+1688257962215,211,"Get Subscriptions ""/""",200,OK,DB 2-43,text,true,,720,157,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,211,0,0
+1688257962220,208,"Get Subscriptions ""/""",200,OK,DB 2-47,text,true,,720,157,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,208,0,0
+1688257962222,213,"Get Subscriptions ""/""",200,OK,DB 2-48,text,true,,720,157,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,213,0,0
+1688257962220,219,"Get Subscriptions ""/""",200,OK,DB 2-41,text,true,,720,157,150,432,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,219,0,0
+1688257962232,213,"Get Subscriptions ""/""",200,OK,DB 2-42,text,true,,720,157,150,431,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,213,0,0
+1688257961719,735,"Get Subscriptions ""/""",200,OK,DB 2-35,text,true,,720,157,150,431,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,735,0,0
+1688257962259,207,"Get Subscriptions ""/""",200,OK,DB 2-50,text,true,,720,157,150,431,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,207,0,0
+1688257961393,1108,Create Subscription,200,OK,DB 2-52,text,true,,259,445,150,431,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1108,0,0
+1688257961393,1108,Create Subscription,200,OK,DB 2-55,text,true,,259,445,150,431,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1108,0,0
+1688257961398,1107,Create Subscription,200,OK,DB 2-56,text,true,,259,445,150,431,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1107,0,0
+1688257961408,1179,Create Subscription,200,OK,DB 2-57,text,true,,259,445,150,431,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1179,0,0
+1688257961420,1167,Create Subscription,200,OK,DB 2-65,text,true,,259,445,150,431,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1167,0,0
+1688257961393,1134,Create Subscription,200,OK,DB 2-51,text,true,,259,445,150,431,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1134,0,0
+1688257961796,731,"Get Subscriptions ""/""",200,OK,DB 2-37,text,true,,720,157,150,431,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,731,0,0
+1688257961411,1176,Create Subscription,200,OK,DB 2-61,text,true,,259,445,150,431,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1176,0,0
+1688257961409,1214,Create Subscription,200,OK,DB 2-59,text,true,,259,445,150,431,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1214,0,0
+1688257961418,1206,Create Subscription,200,OK,DB 2-60,text,true,,259,445,150,430,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1206,0,0
+1688257961422,1202,Create Subscription,200,OK,DB 2-54,text,true,,259,445,150,430,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1202,0,0
+1688257961426,1198,Create Subscription,200,OK,DB 2-62,text,true,,259,445,150,430,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1198,0,0
+1688257961418,1206,Create Subscription,200,OK,DB 2-58,text,true,,259,445,150,430,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1206,0,0
+1688257961483,1142,Create Subscription,200,OK,DB 2-68,text,true,,259,445,150,430,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1142,0,0
+1688257961482,1152,Create Subscription,200,OK,DB 2-63,text,true,,259,445,150,429,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1152,0,0
+1688257961540,1099,Create Subscription,200,OK,DB 2-67,text,true,,259,445,150,429,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1099,0,0
+1688257961490,1149,Create Subscription,200,OK,DB 2-40,text,true,,259,445,150,429,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1149,0,0
+1688257961540,1132,Create Subscription,200,OK,DB 2-69,text,true,,259,445,150,428,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1132,0,0
+1688257961665,1010,Create Subscription,200,OK,DB 2-72,text,true,,259,445,150,428,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1010,0,0
+1688257961603,1074,Create Subscription,200,OK,DB 2-70,text,true,,259,445,150,428,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1074,0,0
+1688257961540,1137,Create Subscription,200,OK,DB 2-64,text,true,,259,445,150,428,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1137,0,0
+1688257961540,1137,Create Subscription,200,OK,DB 2-49,text,true,,259,445,150,428,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1137,0,0
+1688257961561,1123,Create Subscription,200,OK,DB 2-66,text,true,,259,445,150,428,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1123,0,0
+1688257961696,995,Create Subscription,200,OK,DB 2-71,text,true,,259,445,150,428,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,995,0,0
+1688257962506,201,"Get Subscriptions ""/""",200,OK,DB 2-56,text,true,,720,157,150,428,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,201,0,0
+1688257962503,210,"Get Subscriptions ""/""",200,OK,DB 2-52,text,true,,720,157,150,428,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,210,0,0
+1688257961804,918,Create Subscription,200,OK,DB 2-73,text,true,,259,445,150,428,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,918,0,0
+1688257959857,2881,Create Magazine,200,OK,DB 2-99,text,true,,255,358,150,428,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2881,0,0
+1688257961895,885,Create Subscription,200,OK,DB 2-80,text,true,,259,445,150,428,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,885,0,0
+1688257961893,896,Create Subscription,200,OK,DB 2-78,text,true,,259,445,150,428,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,896,0,0
+1688257962595,200,"Get Subscriptions ""/""",200,OK,DB 2-65,text,true,,720,157,150,428,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,200,0,0
+1688257962595,202,"Get Subscriptions ""/""",200,OK,DB 2-61,text,true,,720,157,150,428,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,202,0,0
+1688257962595,203,"Get Subscriptions ""/""",200,OK,DB 2-57,text,true,,720,157,150,428,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,203,0,0
+1688257959859,2951,Create Magazine,200,OK,DB 2-90,text,true,,255,358,150,428,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2951,0,0
+1688257961917,894,Create Subscription,200,OK,DB 2-76,text,true,,259,445,150,428,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,894,0,0
+1688257962595,219,"Get Subscriptions ""/""",200,OK,DB 2-51,text,true,,720,157,150,428,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,219,0,0
+1688257962625,206,"Get Subscriptions ""/""",200,OK,DB 2-60,text,true,,720,157,150,428,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,206,0,0
+1688257962624,208,"Get Subscriptions ""/""",200,OK,DB 2-59,text,true,,720,157,150,428,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,208,0,0
+1688257962626,209,"Get Subscriptions ""/""",200,OK,DB 2-68,text,true,,720,157,150,428,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,209,0,0
+1688257962640,201,"Get Subscriptions ""/""",200,OK,DB 2-67,text,true,,720,157,150,427,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,201,0,0
+1688257962635,216,"Get Subscriptions ""/""",200,OK,DB 2-63,text,true,,720,157,150,427,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,216,0,0
+1688257962640,213,"Get Subscriptions ""/""",200,OK,DB 2-40,text,true,,720,157,150,427,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,213,0,0
+1688257962674,198,"Get Subscriptions ""/""",200,OK,DB 2-69,text,true,,720,157,150,427,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,197,0,0
+1688257962679,197,"Get Subscriptions ""/""",200,OK,DB 2-49,text,true,,720,157,150,427,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,197,0,0
+1688257961927,950,Create Subscription,200,OK,DB 2-79,text,true,,259,445,150,427,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,950,0,0
+1688257962677,208,"Get Subscriptions ""/""",200,OK,DB 2-72,text,true,,720,157,150,427,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,208,0,0
+1688257962678,208,"Get Subscriptions ""/""",200,OK,DB 2-70,text,true,,720,157,150,427,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,208,0,0
+1688257962685,212,"Get Subscriptions ""/""",200,OK,DB 2-66,text,true,,720,157,150,427,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,212,0,0
+1688257962692,218,"Get Subscriptions ""/""",200,OK,DB 2-71,text,true,,720,157,150,427,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,218,0,0
+1688257962723,208,"Get Subscriptions ""/""",200,OK,DB 2-73,text,true,,720,157,150,427,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,208,0,0
+1688257961985,946,Create Subscription,200,OK,DB 2-75,text,true,,259,445,150,427,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,946,0,0
+1688257960115,2817,Create Magazine,200,OK,DB 2-143,text,true,,255,358,150,427,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2817,0,0
+1688257961995,939,Create Subscription,200,OK,DB 2-77,text,true,,259,445,150,427,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,939,0,0
+1688257961951,987,Create Subscription,200,OK,DB 2-74,text,true,,259,445,150,427,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,987,0,0
+1688257962053,891,Create Subscription,200,OK,DB 2-93,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,891,0,0
+1688257962053,899,Create Subscription,200,OK,DB 2-82,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,899,0,0
+1688257962091,863,Create Subscription,200,OK,DB 2-85,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,863,0,0
+1688257962058,897,Create Subscription,200,OK,DB 2-81,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,897,0,0
+1688257962053,903,Create Subscription,200,OK,DB 2-83,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,903,0,0
+1688257962084,872,Create Subscription,200,OK,DB 2-88,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,872,0,0
+1688257962097,867,Create Subscription,200,OK,DB 2-87,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,867,0,0
+1688257962781,203,"Get Subscriptions ""/""",200,OK,DB 2-80,text,true,,720,157,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,203,0,0
+1688257962790,200,"Get Subscriptions ""/""",200,OK,DB 2-78,text,true,,720,157,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,200,0,0
+1688257962144,857,Create Subscription,200,OK,DB 2-84,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,857,0,0
+1688257962148,854,Create Subscription,200,OK,DB 2-89,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,854,0,0
+1688257962146,858,Create Subscription,200,OK,DB 2-94,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,858,0,0
+1688257962146,860,Create Subscription,200,OK,DB 2-100,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,860,0,0
+1688257962154,852,Create Subscription,200,OK,DB 2-103,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,852,0,0
+1688257962158,856,Create Subscription,200,OK,DB 2-95,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,856,0,0
+1688257962812,206,"Get Subscriptions ""/""",200,OK,DB 2-76,text,true,,720,157,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,206,0,0
+1688257962152,866,Create Subscription,200,OK,DB 2-86,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,866,0,0
+1688257962153,867,Create Subscription,200,OK,DB 2-92,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,867,0,0
+1688257962195,825,Create Subscription,200,OK,DB 2-106,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,825,0,0
+1688257962155,866,Create Subscription,200,OK,DB 2-98,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,866,0,0
+1688257962195,828,Create Subscription,200,OK,DB 2-105,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,828,0,0
+1688257962340,772,Create Subscription,200,OK,DB 2-140,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,772,0,0
+1688257962368,745,Create Subscription,200,OK,DB 2-145,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,745,0,0
+1688257962297,792,Create Subscription,200,OK,DB 2-130,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,792,0,0
+1688257962283,808,Create Subscription,200,OK,DB 2-124,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,808,0,0
+1688257962268,811,Create Subscription,200,OK,DB 2-128,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,811,0,0
+1688257962277,802,Create Subscription,200,OK,DB 2-122,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,802,0,0
+1688257962342,756,Create Subscription,200,OK,DB 2-132,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,756,0,0
+1688257962270,809,Create Subscription,200,OK,DB 2-120,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,809,0,0
+1688257962292,786,Create Subscription,200,OK,DB 2-125,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,786,0,0
+1688257962272,805,Create Subscription,200,OK,DB 2-127,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,805,0,0
+1688257962267,809,Create Subscription,200,OK,DB 2-113,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,809,0,0
+1688257962268,817,Create Subscription,200,OK,DB 2-123,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,817,0,0
+1688257962230,846,Create Subscription,200,OK,DB 2-115,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,846,0,0
+1688257962209,878,Create Subscription,200,OK,DB 2-101,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,878,0,0
+1688257962308,768,Create Subscription,200,OK,DB 2-131,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,768,0,0
+1688257962261,813,Create Subscription,200,OK,DB 2-118,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,813,0,0
+1688257962225,847,Create Subscription,200,OK,DB 2-114,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,847,0,0
+1688257962273,799,Create Subscription,200,OK,DB 2-126,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,799,0,0
+1688257962206,864,Create Subscription,200,OK,DB 2-102,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,864,0,0
+1688257962206,862,Create Subscription,200,OK,DB 2-111,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,862,0,0
+1688257962229,836,Create Subscription,200,OK,DB 2-116,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,836,0,0
+1688257962215,850,Create Subscription,200,OK,DB 2-108,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,850,0,0
+1688257962225,840,Create Subscription,200,OK,DB 2-117,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,840,0,0
+1688257962198,863,Create Subscription,200,OK,DB 2-96,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,863,0,0
+1688257962156,872,Create Subscription,200,OK,DB 2-91,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,872,0,0
+1688257962164,862,Create Subscription,200,OK,DB 2-97,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,862,0,0
+1688257960114,2911,Create Magazine,200,OK,DB 2-141,text,true,,255,358,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,2911,0,0
+1688257962197,828,Create Subscription,200,OK,DB 2-107,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,828,0,0
+1688257962347,771,Create Subscription,200,OK,DB 2-139,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,771,0,0
+1688257962335,783,Create Subscription,200,OK,DB 2-134,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,783,0,0
+1688257962348,773,Create Subscription,200,OK,DB 2-135,text,true,,259,445,150,426,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,773,0,0
+1688257962372,771,Create Subscription,200,OK,DB 2-146,text,true,,259,445,150,425,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,771,0,0
+1688257962935,212,"Get Subscriptions ""/""",200,OK,DB 2-77,text,true,,720,157,150,425,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,212,0,0
+1688257962400,747,Create Subscription,200,OK,DB 2-136,text,true,,259,445,150,425,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,747,0,0
+1688257962397,754,Create Subscription,200,OK,DB 2-148,text,true,,259,445,150,425,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,754,0,0
+1688257962939,213,"Get Subscriptions ""/""",200,OK,DB 2-74,text,true,,720,157,150,425,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,213,0,0
+1688257962379,774,Create Subscription,200,OK,DB 2-142,text,true,,259,445,150,425,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,774,0,0
+1688257962418,735,Create Subscription,200,OK,DB 2-147,text,true,,259,445,150,425,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,735,0,0
+1688257962955,200,"Get Subscriptions ""/""",200,OK,DB 2-85,text,true,,720,157,150,425,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,200,0,0
+1688257962419,739,Create Subscription,200,OK,DB 2-150,text,true,,259,445,150,425,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,739,0,0
+1688257962740,420,Create Subscription,200,OK,DB 2-99,text,true,,259,445,150,425,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,420,0,0
+1688257962424,736,Create Subscription,200,OK,DB 2-149,text,true,,259,445,150,425,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,736,0,0
+1688257962392,769,Create Subscription,200,OK,DB 2-137,text,true,,259,445,150,425,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,769,0,0
+1688257962953,208,"Get Subscriptions ""/""",200,OK,DB 2-82,text,true,,720,157,150,425,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,208,0,0
+1688257962958,207,"Get Subscriptions ""/""",200,OK,DB 2-88,text,true,,720,157,150,425,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,207,0,0
+1688257962812,354,Create Subscription,200,OK,DB 2-90,text,true,,259,445,150,425,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,354,0,0
+1688257962956,213,"Get Subscriptions ""/""",200,OK,DB 2-81,text,true,,720,157,150,425,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,213,0,0
+1688257962957,213,"Get Subscriptions ""/""",200,OK,DB 2-83,text,true,,720,157,150,425,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,213,0,0
+1688257962933,241,Create Subscription,200,OK,DB 2-143,text,true,,259,445,150,425,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,241,0,0
+1688257962966,213,"Get Subscriptions ""/""",200,OK,DB 2-87,text,true,,720,157,150,425,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,213,0,0
+1688257963003,201,"Get Subscriptions ""/""",200,OK,DB 2-89,text,true,,720,157,150,425,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,201,0,0
+1688257963008,201,"Get Subscriptions ""/""",200,OK,DB 2-100,text,true,,720,157,150,424,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,201,0,0
+1688257963002,209,"Get Subscriptions ""/""",200,OK,DB 2-84,text,true,,720,157,150,424,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,209,0,0
+1688257963005,208,"Get Subscriptions ""/""",200,OK,DB 2-94,text,true,,720,157,150,424,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,208,0,0
+1688257963022,198,"Get Subscriptions ""/""",200,OK,DB 2-106,text,true,,720,157,150,424,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,198,0,0
+1688257963015,206,"Get Subscriptions ""/""",200,OK,DB 2-95,text,true,,720,157,150,424,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,206,0,0
+1688257963024,207,"Get Subscriptions ""/""",200,OK,DB 2-105,text,true,,720,157,150,424,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,207,0,0
+1688257963019,216,"Get Subscriptions ""/""",200,OK,DB 2-86,text,true,,720,157,150,424,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,216,0,0
+1688257962503,752,"Get Subscriptions ""/""",200,OK,DB 2-55,text,true,,720,157,150,424,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,752,0,0
+1688257963118,201,"Get Subscriptions ""/""",200,OK,DB 2-117,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,201,0,0
+1688257963117,202,"Get Subscriptions ""/""",200,OK,DB 2-145,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,202,0,0
+1688257963117,204,"Get Subscriptions ""/""",200,OK,DB 2-140,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,204,0,0
+1688257963117,205,"Get Subscriptions ""/""",200,OK,DB 2-130,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,205,0,0
+1688257963118,205,"Get Subscriptions ""/""",200,OK,DB 2-126,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,205,0,0
+1688257963117,207,"Get Subscriptions ""/""",200,OK,DB 2-114,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,207,0,0
+1688257963118,206,"Get Subscriptions ""/""",200,OK,DB 2-134,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,206,0,0
+1688257963117,207,"Get Subscriptions ""/""",200,OK,DB 2-118,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,207,0,0
+1688257963117,209,"Get Subscriptions ""/""",200,OK,DB 2-127,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,209,0,0
+1688257963118,208,"Get Subscriptions ""/""",200,OK,DB 2-116,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,208,0,0
+1688257963117,209,"Get Subscriptions ""/""",200,OK,DB 2-123,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,209,0,0
+1688257963118,209,"Get Subscriptions ""/""",200,OK,DB 2-111,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,209,0,0
+1688257963118,209,"Get Subscriptions ""/""",200,OK,DB 2-107,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,209,0,0
+1688257963117,210,"Get Subscriptions ""/""",200,OK,DB 2-128,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,210,0,0
+1688257963117,211,"Get Subscriptions ""/""",200,OK,DB 2-122,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,211,0,0
+1688257963117,211,"Get Subscriptions ""/""",200,OK,DB 2-115,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,211,0,0
+1688257963118,211,"Get Subscriptions ""/""",200,OK,DB 2-108,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,211,0,0
+1688257963117,213,"Get Subscriptions ""/""",200,OK,DB 2-131,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,213,0,0
+1688257963117,213,"Get Subscriptions ""/""",200,OK,DB 2-125,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,213,0,0
+1688257963117,215,"Get Subscriptions ""/""",200,OK,DB 2-113,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,215,0,0
+1688257963118,215,"Get Subscriptions ""/""",200,OK,DB 2-102,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,215,0,0
+1688257963118,216,"Get Subscriptions ""/""",200,OK,DB 2-139,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,216,0,0
+1688257963117,218,"Get Subscriptions ""/""",200,OK,DB 2-124,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,218,0,0
+1688257963117,218,"Get Subscriptions ""/""",200,OK,DB 2-120,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,218,0,0
+1688257963117,220,"Get Subscriptions ""/""",200,OK,DB 2-132,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,220,0,0
+1688257963118,221,"Get Subscriptions ""/""",200,OK,DB 2-91,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,221,0,0
+1688257963118,222,"Get Subscriptions ""/""",200,OK,DB 2-97,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,222,0,0
+1688257963143,198,"Get Subscriptions ""/""",200,OK,DB 2-146,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,198,0,0
+1688257963160,199,"Get Subscriptions ""/""",200,OK,DB 2-99,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,199,0,0
+1688257963147,212,"Get Subscriptions ""/""",200,OK,DB 2-136,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,212,0,0
+1688257963153,212,"Get Subscriptions ""/""",200,OK,DB 2-142,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,212,0,0
+1688257963153,214,"Get Subscriptions ""/""",200,OK,DB 2-147,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,214,0,0
+1688257963161,213,"Get Subscriptions ""/""",200,OK,DB 2-137,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,213,0,0
+1688257963174,201,"Get Subscriptions ""/""",200,OK,DB 2-143,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,201,0,0
+1688257963161,215,"Get Subscriptions ""/""",200,OK,DB 2-149,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,215,0,0
+1688257962626,751,"Get Subscriptions ""/""",200,OK,DB 2-58,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,751,0,0
+1688257962625,752,"Get Subscriptions ""/""",200,OK,DB 2-54,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,752,0,0
+1688257962625,753,"Get Subscriptions ""/""",200,OK,DB 2-62,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,753,0,0
+1688257963118,263,Create Subscription,200,OK,DB 2-141,text,true,,259,445,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,263,0,0
+1688257963166,219,"Get Subscriptions ""/""",200,OK,DB 2-90,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,219,0,0
+1688257962678,765,"Get Subscriptions ""/""",200,OK,DB 2-64,text,true,,720,157,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,765,0,0
+1688257959955,3489,Create Magazine,200,OK,DB 2-119,text,true,,255,358,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,3489,0,0
+1688257959906,3571,Create Magazine,200,OK,DB 2-109,text,true,,255,358,150,423,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_magazine,3571,0,0
+1688257962208,1395,Create Subscription,200,OK,DB 2-112,text,true,,259,445,150,422,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1395,0,0
+1688257962205,1399,Create Subscription,200,OK,DB 2-110,text,true,,259,445,150,422,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1399,0,0
+1688257963382,209,"Get Subscriptions ""/""",200,OK,DB 2-141,text,true,,720,157,150,422,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,209,0,0
+1688257962297,1336,Create Subscription,200,OK,DB 2-138,text,true,,259,445,150,422,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1336,0,0
+1688257962878,756,"Get Subscriptions ""/""",200,OK,DB 2-79,text,true,,720,157,150,422,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,756,0,0
+1688257962275,1398,Create Subscription,200,OK,DB 2-121,text,true,,259,445,150,421,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1398,0,0
+1688257962336,1365,Create Subscription,200,OK,DB 2-129,text,true,,259,445,150,421,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1365,0,0
+1688257962932,770,"Get Subscriptions ""/""",200,OK,DB 2-75,text,true,,720,157,150,421,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,770,0,0
+1688257962209,1498,Create Subscription,200,OK,DB 2-104,text,true,,259,445,150,421,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1498,0,0
+1688257962364,1369,Create Subscription,200,OK,DB 2-133,text,true,,259,445,150,421,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1369,0,0
+1688257963445,299,Create Subscription,200,OK,DB 2-119,text,true,,259,445,150,421,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,299,0,0
+1688257963008,753,"Get Subscriptions ""/""",200,OK,DB 2-103,text,true,,720,157,150,421,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,753,0,0
+1688257962407,1359,Create Subscription,200,OK,DB 2-144,text,true,,259,445,150,421,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,1359,0,0
+1688257963022,747,"Get Subscriptions ""/""",200,OK,DB 2-92,text,true,,720,157,150,421,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,747,0,0
+1688257963478,292,Create Subscription,200,OK,DB 2-109,text,true,,259,445,150,421,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/create_subscription,292,0,0
+1688257963630,201,"Get Subscriptions ""/""",200,OK,DB 2-112,text,true,,720,157,150,420,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,201,0,0
+1688257963630,203,"Get Subscriptions ""/""",200,OK,DB 2-110,text,true,,720,157,150,420,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,203,0,0
+1688257963674,206,"Get Subscriptions ""/""",200,OK,DB 2-121,text,true,,720,157,150,420,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,206,0,0
+1688257963151,741,"Get Subscriptions ""/""",200,OK,DB 2-148,text,true,,720,157,150,420,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,741,0,0
+1688257963118,778,"Get Subscriptions ""/""",200,OK,DB 2-96,text,true,,720,157,150,420,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,778,0,0
+1688257963122,781,"Get Subscriptions ""/""",200,OK,DB 2-135,text,true,,720,157,150,420,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,781,0,0
+1688257963701,212,"Get Subscriptions ""/""",200,OK,DB 2-129,text,true,,720,157,150,420,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,212,0,0
+1688257963158,769,"Get Subscriptions ""/""",200,OK,DB 2-150,text,true,,720,157,150,420,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,769,0,0
+1688257963117,814,"Get Subscriptions ""/""",200,OK,DB 2-101,text,true,,720,157,150,420,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,814,0,0
+1688257963708,227,"Get Subscriptions ""/""",200,OK,DB 2-104,text,true,,720,157,150,420,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,227,0,0
+1688257963734,209,"Get Subscriptions ""/""",200,OK,DB 2-133,text,true,,720,157,150,420,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,209,0,0
+1688257963744,202,"Get Subscriptions ""/""",200,OK,DB 2-119,text,true,,720,157,150,420,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,202,0,0
+1688257963766,215,"Get Subscriptions ""/""",200,OK,DB 2-144,text,true,,720,157,150,420,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,215,0,0
+1688257963770,213,"Get Subscriptions ""/""",200,OK,DB 2-109,text,true,,720,157,150,420,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,213,0,0
+1688257962946,1264,"Get Subscriptions ""/""",200,OK,DB 2-93,text,true,,720,157,150,417,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,1264,0,0
+1688257963634,775,"Get Subscriptions ""/""",200,OK,DB 2-138,text,true,,720,157,150,415,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,775,0,0
+1688257961749,3397,"Get Subscriptions ""/index.css""",200,OK,DB 2-24,text,true,,195718,166,150,410,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,209,0,0
+1688257963022,2474,"Get Subscriptions ""/""",200,OK,DB 2-98,text,true,,720,157,150,407,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/,2474,0,0
+1688257961777,4053,"Get Subscriptions ""/index.css""",200,OK,DB 2-33,text,true,,195718,166,150,405,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,216,0,0
+1688257961540,4495,"Get Subscriptions ""/index.css""",200,OK,DB 2-20,text,true,,195718,166,150,404,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,200,0,0
+1688257962872,3373,"Get Subscriptions ""/index.css""",200,OK,DB 2-69,text,true,,195718,166,150,402,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,207,0,0
+1688257961699,4669,"Get Subscriptions ""/index.css""",200,OK,DB 2-17,text,true,,195718,166,150,400,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,209,0,0
+1688257961855,4532,"Get Subscriptions ""/index.css""",200,OK,DB 2-31,text,true,,195718,166,150,400,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,210,0,0
+1688257961668,4746,"Get Subscriptions ""/index.css""",200,OK,DB 2-8,text,true,,195718,166,150,400,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,209,0,0
+1688257962931,3687,"Get Subscriptions ""/index.css""",200,OK,DB 2-73,text,true,,195718,166,150,398,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,209,0,0
+1688257963231,4136,"Get Subscriptions ""/index.css""",200,OK,DB 2-105,text,true,,195718,166,150,392,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,209,0,0
+1688257961460,5971,"Get Subscriptions ""/index.css""",200,OK,DB 2-1,text,true,,195718,166,150,392,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,209,0,0
+1688257961670,5768,"Get Subscriptions ""/index.css""",200,OK,DB 2-22,text,true,,195718,166,150,392,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,199,0,0
+1688257963385,4412,"Get Subscriptions ""/index.css""",200,OK,DB 2-90,text,true,,195718,166,150,390,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,218,0,0
+1688257963365,4800,"Get Subscriptions ""/index.css""",200,OK,DB 2-142,text,true,,195718,166,150,387,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,723,0,0
+1688257963165,5344,"Get Subscriptions ""/index.css""",200,OK,DB 2-88,text,true,,195718,166,150,386,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,208,0,0
+1688257963161,5532,"Get Subscriptions ""/index.css""",200,OK,DB 2-82,text,true,,195718,166,150,385,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,715,0,0
+1688257963634,5054,"Get Subscriptions ""/index.css""",200,OK,DB 2-79,text,true,,195718,166,150,385,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,906,0,0
+1688257962414,6222,"Get Subscriptions ""/index.css""",200,OK,DB 2-53,text,true,,195718,166,150,386,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,1051,0,0
+1688257963147,5619,"Get Subscriptions ""/index.css""",200,OK,DB 2-77,text,true,,195718,166,150,385,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,1115,0,0
+1688257963943,4839,"Get Subscriptions ""/index.css""",200,OK,DB 2-133,text,true,,195718,166,150,385,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,209,0,0
+1688257963319,5642,"Get Subscriptions ""/index.css""",200,OK,DB 2-117,text,true,,195718,166,150,384,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,200,0,0
+1688257963319,5688,"Get Subscriptions ""/index.css""",200,OK,DB 2-145,text,true,,195718,166,150,383,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,198,0,0
+1688257961677,7512,"Get Subscriptions ""/index.css""",200,OK,DB 2-9,text,true,,195718,166,150,382,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,214,0,0
+1688257962393,6993,"Get Subscriptions ""/index.css""",200,OK,DB 2-44,text,true,,195718,166,150,381,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,232,0,0
+1688257962910,6496,"Get Subscriptions ""/index.css""",200,OK,DB 2-71,text,true,,195718,166,150,381,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,218,0,0
+1688257962440,7191,"Get Subscriptions ""/index.css""",200,OK,DB 2-41,text,true,,195718,166,150,379,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,218,0,0
+1688257962851,7086,"Get Subscriptions ""/index.css""",200,OK,DB 2-63,text,true,,195718,166,150,378,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,217,0,0
+1688257962795,7297,"Get Subscriptions ""/index.css""",200,OK,DB 2-65,text,true,,195718,166,150,377,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,199,0,0
+1688257961540,8570,"Get Subscriptions ""/index.css""",200,OK,DB 2-16,text,true,,195718,166,150,377,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,209,0,0
+1688257963761,6494,"Get Subscriptions ""/index.css""",200,OK,DB 2-103,text,true,,195718,166,150,376,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,209,0,0
+1688257962876,7299,"Get Subscriptions ""/index.css""",200,OK,DB 2-49,text,true,,195718,166,150,376,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,393,0,0
+1688257961739,8418,"Get Subscriptions ""/index.css""",200,OK,DB 2-28,text,true,,195718,166,150,376,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,200,0,0
+1688257962835,7585,"Get Subscriptions ""/index.css""",200,OK,DB 2-68,text,true,,195718,166,150,375,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,201,0,0
+1688257961366,9134,"Get Subscriptions ""/index.css""",200,OK,DB 2-4,text,true,,195718,166,150,375,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,199,0,0
+1688257961778,8736,"Get Subscriptions ""/index.css""",200,OK,DB 2-32,text,true,,195718,166,150,375,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,1626,0,0
+1688257963904,6967,"Get Subscriptions ""/index.css""",200,OK,DB 2-135,text,true,,195718,166,150,373,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,219,0,0
+1688257962429,8608,"Get Subscriptions ""/index.css""",200,OK,DB 2-47,text,true,,195718,166,150,373,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,210,0,0
+1688257963341,7965,"Get Subscriptions ""/index.css""",200,OK,DB 2-146,text,true,,195718,166,150,371,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,1203,0,0
+1688257963378,8033,"Get Subscriptions ""/index.css""",200,OK,DB 2-62,text,true,,195718,166,150,371,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,889,0,0
+1688257962595,8913,"Get Subscriptions ""/index.css""",200,OK,DB 2-37,text,true,,195718,166,150,371,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,200,0,0
+1688257963375,8203,"Get Subscriptions ""/index.css""",200,OK,DB 2-143,text,true,,195718,166,150,371,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,203,0,0
+1688257963171,8589,"Get Subscriptions ""/index.css""",200,OK,DB 2-83,text,true,,195718,166,150,370,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,1835,0,0
+1688257966690,4994,"Get Subscriptions ""/index.js""",200,OK,DB 2-73,text,true,,161873,165,150,370,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,413,0,0
+1688257966369,5596,"Get Subscriptions ""/index.js""",200,OK,DB 2-17,text,true,,161873,165,150,369,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,1674,0,0
+1688257966415,5663,"Get Subscriptions ""/index.js""",200,OK,DB 2-8,text,true,,161873,165,150,368,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,710,0,0
+1688257968734,3364,"Get Subscriptions ""/index.js""",200,OK,DB 2-53,text,true,,161873,165,150,368,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,199,0,0
+1688257962427,9677,"Get Subscriptions ""/index.css""",200,OK,DB 2-43,text,true,,195718,166,150,368,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,903,0,0
+1688257962227,10105,"Get Subscriptions ""/index.css""",200,OK,DB 2-19,text,true,,195718,166,150,367,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,639,0,0
+1688257965147,7209,"Get Subscriptions ""/index.js""",200,OK,DB 2-24,text,true,,161873,165,150,367,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,477,0,0
+1688257963981,8487,"Get Subscriptions ""/index.css""",200,OK,DB 2-144,text,true,,195718,166,150,367,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,213,0,0
+1688257962886,9613,"Get Subscriptions ""/index.css""",200,OK,DB 2-70,text,true,,195718,166,150,366,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,1232,0,0
+1688257967367,5283,"Get Subscriptions ""/index.js""",200,OK,DB 2-105,text,true,,161873,165,150,365,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,210,0,0
+1688257968734,3946,"Get Subscriptions ""/index.js""",200,OK,DB 2-82,text,true,,161873,165,150,365,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,209,0,0
+1688257963221,9507,"Get Subscriptions ""/index.css""",200,OK,DB 2-95,text,true,,195718,166,150,364,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,207,0,0
+1688257963330,9454,"Get Subscriptions ""/index.css""",200,OK,DB 2-125,text,true,,195718,166,150,364,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,2101,0,0
+1688257963332,9555,"Get Subscriptions ""/index.css""",200,OK,DB 2-113,text,true,,195718,166,150,363,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,218,0,0
+1688257961398,11580,"Get Subscriptions ""/index.css""",200,OK,DB 2-6,text,true,,195718,166,150,363,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,822,0,0
+1688257970110,2870,"Get Subscriptions ""/index.js""",200,OK,DB 2-16,text,true,,161873,165,150,363,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,208,0,0
+1688257962468,10536,"Get Subscriptions ""/index.css""",200,OK,DB 2-50,text,true,,195718,166,150,362,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,1364,0,0
+1688257963913,9168,"Get Subscriptions ""/index.css""",200,OK,DB 2-129,text,true,,195718,166,150,362,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,688,0,0
+1688257961788,11320,"Get Subscriptions ""/index.css""",200,OK,DB 2-25,text,true,,195718,166,150,362,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,206,0,0
+1688257962814,10350,"Get Subscriptions ""/index.css""",200,OK,DB 2-51,text,true,,195718,166,150,361,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,1899,0,0
+1688257961416,11755,"Get Subscriptions ""/index.css""",200,OK,DB 2-5,text,true,,195718,166,150,361,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,202,0,0
+1688257966036,7269,"Get Subscriptions ""/index.js""",200,OK,DB 2-20,text,true,,161873,165,150,361,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,392,0,0
+1688257967439,5848,"Get Subscriptions ""/index.js""",200,OK,DB 2-22,text,true,,161873,165,150,361,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,392,0,0
+1688257962831,10437,"Get Subscriptions ""/index.css""",200,OK,DB 2-60,text,true,,195718,166,150,361,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,1784,0,0
+1688257962410,10820,"Get Subscriptions ""/index.css""",200,OK,DB 2-45,text,true,,195718,166,150,361,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,216,0,0
+1688257968734,4625,"Get Subscriptions ""/index.js""",200,OK,DB 2-79,text,true,,161873,165,150,361,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,413,0,0
+1688257970262,3556,"Get Subscriptions ""/index.js""",200,OK,DB 2-49,text,true,,161873,165,150,358,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,198,0,0
+1688257963377,10368,"Get Subscriptions ""/index.css""",200,OK,DB 2-58,text,true,,195718,166,150,358,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,1256,0,0
+1688257963935,9980,"Get Subscriptions ""/index.css""",200,OK,DB 2-104,text,true,,195718,166,150,358,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,728,0,0
+1688257967797,6338,"Get Subscriptions ""/index.js""",200,OK,DB 2-90,text,true,,161873,165,150,357,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,433,0,0
+1688257963326,10860,"Get Subscriptions ""/index.css""",200,OK,DB 2-127,text,true,,195718,166,150,357,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,1652,0,0
+1688257965832,8718,"Get Subscriptions ""/index.js""",200,OK,DB 2-33,text,true,,161873,165,150,356,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,393,0,0
+1688257963832,10775,"Get Subscriptions ""/index.css""",200,OK,DB 2-112,text,true,,195718,166,150,356,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,711,0,0
+1688257968782,6154,"Get Subscriptions ""/index.js""",200,OK,DB 2-133,text,true,,161873,165,150,353,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,1258,0,0
+1688257961745,13445,"Get Subscriptions ""/index.css""",200,OK,DB 2-26,text,true,,195718,166,150,351,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,205,0,0
+1688257968509,6722,"Get Subscriptions ""/index.js""",200,OK,DB 2-88,text,true,,161873,165,150,351,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,208,0,0
+1688257962797,12592,"Get Subscriptions ""/index.css""",200,OK,DB 2-61,text,true,,195718,166,150,349,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,201,0,0
+1688257963359,12037,"Get Subscriptions ""/index.css""",200,OK,DB 2-136,text,true,,195718,166,150,349,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,212,0,0
+1688257964210,11331,"Get Subscriptions ""/index.css""",200,OK,DB 2-93,text,true,,195718,166,150,348,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,394,0,0
+1688257970262,5379,"Get Subscriptions ""/index.js""",200,OK,DB 2-103,text,true,,161873,165,150,348,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,413,0,0
+1688257962841,12840,"Get Subscriptions ""/index.css""",200,OK,DB 2-67,text,true,,195718,166,150,348,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,1337,0,0
+1688257961480,14255,"Get Subscriptions ""/index.css""",200,OK,DB 2-2,text,true,,195718,166,150,348,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,206,0,0
+1688257961362,14534,"Get Subscriptions ""/index.css""",200,OK,DB 2-12,text,true,,195718,166,150,348,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,713,0,0
+1688257962412,13740,"Get Subscriptions ""/index.css""",200,OK,DB 2-39,text,true,,195718,166,150,345,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,214,0,0
+1688257963209,13290,"Get Subscriptions ""/index.css""",200,OK,DB 2-100,text,true,,195718,166,150,344,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,857,0,0
+1688257963169,13479,"Get Subscriptions ""/index.css""",200,OK,DB 2-81,text,true,,195718,166,150,344,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,215,0,0
+1688257961705,15137,"Get Subscriptions ""/index.css""",200,OK,DB 2-10,text,true,,195718,166,150,343,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,214,0,0
+1688257963213,13771,"Get Subscriptions ""/index.css""",200,OK,DB 2-94,text,true,,195718,166,150,342,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,1555,0,0
+1688257963927,13098,"Get Subscriptions ""/index.css""",200,OK,DB 2-150,text,true,,195718,166,150,342,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,214,0,0
+1688257963931,13188,"Get Subscriptions ""/index.css""",200,OK,DB 2-101,text,true,,195718,166,150,342,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,732,0,0
+1688257973003,4310,"Get Subscriptions ""/index.js""",200,OK,DB 2-50,text,true,,161873,165,150,341,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,414,0,0
+1688257966388,10904,"Get Subscriptions ""/index.js""",200,OK,DB 2-31,text,true,,161873,165,150,341,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,1555,0,0
+1688257963880,13627,"Get Subscriptions ""/index.css""",200,OK,DB 2-121,text,true,,195718,166,150,339,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,671,0,0
+1688257963443,14116,"Get Subscriptions ""/index.css""",200,OK,DB 2-64,text,true,,195718,166,150,339,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,1265,0,0
+1688257963327,14254,"Get Subscriptions ""/index.css""",200,OK,DB 2-107,text,true,,195718,166,150,338,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,1546,0,0
+1688257963327,14285,"Get Subscriptions ""/index.css""",200,OK,DB 2-123,text,true,,195718,166,150,338,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,209,0,0
+1688257961596,16427,"Get Subscriptions ""/index.css""",200,OK,DB 2-15,text,true,,195718,166,150,337,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,212,0,0
+1688257962410,15646,"Get Subscriptions ""/index.css""",200,OK,DB 2-46,text,true,,195718,166,150,337,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,216,0,0
+1688257970514,7630,"Get Subscriptions ""/index.js""",200,OK,DB 2-32,text,true,,161873,165,150,337,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,1015,0,0
+1688257961376,16776,"Get Subscriptions ""/index.css""",200,OK,DB 2-18,text,true,,195718,166,150,337,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,202,0,0
+1688257963327,14830,"Get Subscriptions ""/index.css""",200,OK,DB 2-111,text,true,,195718,166,150,337,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,1235,0,0
+1688257963255,15101,"Get Subscriptions ""/index.css""",200,OK,DB 2-55,text,true,,195718,166,150,335,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,712,0,0
+1688257961433,16972,"Get Subscriptions ""/index.css""",200,OK,DB 2-14,text,true,,195718,166,150,335,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,204,0,0
+1688257970091,8250,"Get Subscriptions ""/index.js""",200,OK,DB 2-65,text,true,,161873,165,150,335,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,783,0,0
+1688257961370,17065,"Get Subscriptions ""/index.css""",200,OK,DB 2-7,text,true,,195718,166,150,335,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,200,0,0
+1688257963322,15219,"Get Subscriptions ""/index.css""",200,OK,DB 2-130,text,true,,195718,166,150,334,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,846,0,0
+1688257963892,14653,"Get Subscriptions ""/index.css""",200,OK,DB 2-148,text,true,,195718,166,150,334,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,200,0,0
+1688257961790,17020,"Get Subscriptions ""/index.css""",200,OK,DB 2-27,text,true,,195718,166,150,334,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,211,0,0
+1688257971305,7715,"Get Subscriptions ""/index.js""",200,OK,DB 2-146,text,true,,161873,165,150,333,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,394,0,0
+1688257962292,16776,"Get Subscriptions ""/index.css""",200,OK,DB 2-23,text,true,,195718,166,150,333,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,210,0,0
+1688257962885,16212,"Get Subscriptions ""/index.css""",200,OK,DB 2-72,text,true,,195718,166,150,333,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,212,0,0
+1688257962416,16721,"Get Subscriptions ""/index.css""",200,OK,DB 2-38,text,true,,195718,166,150,333,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,213,0,0
+1688257969630,9564,"Get Subscriptions ""/index.js""",200,OK,DB 2-41,text,true,,161873,165,150,333,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,433,0,0
+1688257963236,15967,"Get Subscriptions ""/index.css""",200,OK,DB 2-86,text,true,,195718,166,150,333,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,216,0,0
+1688257962708,16543,"Get Subscriptions ""/index.css""",200,OK,DB 2-56,text,true,,195718,166,150,332,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,201,0,0
+1688257971036,8353,"Get Subscriptions ""/index.js""",200,OK,DB 2-47,text,true,,161873,165,150,330,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,413,0,0
+1688257962984,16644,"Get Subscriptions ""/index.css""",200,OK,DB 2-80,text,true,,195718,166,150,329,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,203,0,0
+1688257967431,12378,"Get Subscriptions ""/index.js""",200,OK,DB 2-1,text,true,,161873,165,150,328,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,1581,0,0
+1688257962832,17014,"Get Subscriptions ""/index.css""",200,OK,DB 2-59,text,true,,195718,166,150,328,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,792,0,0
+1688257969386,10919,"Get Subscriptions ""/index.js""",200,OK,DB 2-44,text,true,,161873,165,150,327,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,700,0,0
+1688257963376,17080,"Get Subscriptions ""/index.css""",200,OK,DB 2-149,text,true,,195718,166,150,326,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,216,0,0
+1688257962276,18185,"Get Subscriptions ""/index.css""",200,OK,DB 2-34,text,true,,195718,166,150,326,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,217,0,0
+1688257966245,14261,"Get Subscriptions ""/index.js""",200,OK,DB 2-69,text,true,,161873,165,150,326,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,456,0,0
+1688257969243,11415,"Get Subscriptions ""/index.js""",200,OK,DB 2-9,text,true,,161873,165,150,326,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,1120,0,0
+1688257963896,16833,"Get Subscriptions ""/index.css""",200,OK,DB 2-96,text,true,,195718,166,150,326,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,1432,0,0
+1688257964410,16508,"Get Subscriptions ""/index.css""",200,OK,DB 2-138,text,true,,195718,166,150,323,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,392,0,0
+1688257963220,17879,"Get Subscriptions ""/index.css""",200,OK,DB 2-106,text,true,,195718,166,150,323,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,198,0,0
+1688257963833,17292,"Get Subscriptions ""/index.css""",200,OK,DB 2-110,text,true,,195718,166,150,323,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,995,0,0
+1688257970262,11219,"Get Subscriptions ""/index.js""",200,OK,DB 2-28,text,true,,161873,165,150,322,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,700,0,0
+1688257975541,5850,"Get Subscriptions ""/index.js""",200,OK,DB 2-93,text,true,,161873,165,150,322,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,664,0,0
+1688257963367,18258,"Get Subscriptions ""/index.css""",200,OK,DB 2-147,text,true,,195718,166,150,321,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,1267,0,0
+1688257961744,19881,"Get Subscriptions ""/index.css""",200,OK,DB 2-29,text,true,,195718,166,150,321,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,1599,0,0
+1688257970500,11153,"Get Subscriptions ""/index.js""",200,OK,DB 2-4,text,true,,161873,165,150,321,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,457,0,0
+1688257963702,17958,"Get Subscriptions ""/index.css""",200,OK,DB 2-75,text,true,,195718,166,150,321,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,213,0,0
+1688257962714,19003,"Get Subscriptions ""/index.css""",200,OK,DB 2-52,text,true,,195718,166,150,320,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,212,0,0
+1688257971785,9965,"Get Subscriptions ""/index.js""",200,OK,DB 2-83,text,true,,161873,165,150,320,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,414,0,0
+1688257963946,17844,"Get Subscriptions ""/index.css""",200,OK,DB 2-119,text,true,,195718,166,150,319,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,400,0,0
+1688257973108,8710,"Get Subscriptions ""/index.js""",200,OK,DB 2-25,text,true,,161873,165,150,319,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,203,0,0
+1688257963324,18529,"Get Subscriptions ""/index.css""",200,OK,DB 2-118,text,true,,195718,166,150,319,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,848,0,0
+1688257973915,8073,"Get Subscriptions ""/index.js""",200,OK,DB 2-104,text,true,,161873,165,150,318,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,2373,0,0
+1688257963374,18700,"Get Subscriptions ""/index.css""",200,OK,DB 2-137,text,true,,195718,166,150,318,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,2769,0,0
+1688257976983,5507,"Get Subscriptions ""/index.js""",200,OK,DB 2-94,text,true,,161873,165,150,317,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,1140,0,0
+1688257968765,13689,"Get Subscriptions ""/index.js""",200,OK,DB 2-77,text,true,,161873,165,150,318,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,213,0,0
+1688257963321,19080,"Get Subscriptions ""/index.css""",200,OK,DB 2-140,text,true,,195718,166,150,318,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,1732,0,0
+1688257963769,18830,"Get Subscriptions ""/index.css""",200,OK,DB 2-92,text,true,,195718,166,150,316,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,1395,0,0
+1688257963631,19039,"Get Subscriptions ""/index.css""",200,OK,DB 2-141,text,true,,195718,166,150,316,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,1529,0,0
+1688257969937,12773,"Get Subscriptions ""/index.js""",200,OK,DB 2-63,text,true,,161873,165,150,316,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,428,0,0
+1688257972978,9961,"Get Subscriptions ""/index.js""",200,OK,DB 2-6,text,true,,161873,165,150,315,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,1561,0,0
+1688257963212,19719,"Get Subscriptions ""/index.css""",200,OK,DB 2-84,text,true,,195718,166,150,315,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,2691,0,0
+1688257962436,20658,"Get Subscriptions ""/index.css""",200,OK,DB 2-48,text,true,,195718,166,150,313,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,1213,0,0
+1688257963378,19814,"Get Subscriptions ""/index.css""",200,OK,DB 2-54,text,true,,195718,166,150,312,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,1255,0,0
+1688257972467,10954,"Get Subscriptions ""/index.js""",200,OK,DB 2-144,text,true,,161873,165,150,312,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,450,0,0
+1688257971507,12194,"Get Subscriptions ""/index.js""",200,OK,DB 2-37,text,true,,161873,165,150,312,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,1540,0,0
+1688257973163,10634,"Get Subscriptions ""/index.js""",200,OK,DB 2-51,text,true,,161873,165,150,311,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,1153,0,0
+1688257972886,11074,"Get Subscriptions ""/index.js""",200,OK,DB 2-113,text,true,,161873,165,150,310,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,424,0,0
+1688257961666,22434,"Get Subscriptions ""/index.css""",200,OK,DB 2-3,text,true,,195718,166,150,309,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,726,0,0
+1688257963334,20831,"Get Subscriptions ""/index.css""",200,OK,DB 2-102,text,true,,195718,166,150,309,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,1058,0,0
+1688257976151,8120,"Get Subscriptions ""/index.js""",200,OK,DB 2-39,text,true,,161873,165,150,309,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,414,0,0
+1688257963359,21364,"Get Subscriptions ""/index.css""",200,OK,DB 2-99,text,true,,195718,166,150,306,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,203,0,0
+1688257974185,10675,"Get Subscriptions ""/index.js""",200,OK,DB 2-127,text,true,,161873,165,150,306,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,594,0,0
+1688257977119,7766,"Get Subscriptions ""/index.js""",200,OK,DB 2-101,text,true,,161873,165,150,306,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,1338,0,0
+1688257962897,22005,"Get Subscriptions ""/index.css""",200,OK,DB 2-66,text,true,,195718,166,150,306,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,4741,0,0
+1688257961706,23260,"Get Subscriptions ""/index.css""",200,OK,DB 2-11,text,true,,195718,166,150,306,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,215,0,0
+1688257969405,15594,"Get Subscriptions ""/index.js""",200,OK,DB 2-71,text,true,,161873,165,150,306,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,1739,0,0
+1688257975388,9709,"Get Subscriptions ""/index.js""",200,OK,DB 2-61,text,true,,161873,165,150,305,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,399,0,0
+1688257963329,21857,"Get Subscriptions ""/index.css""",200,OK,DB 2-108,text,true,,195718,166,150,305,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,1804,0,0
+1688257962990,22477,"Get Subscriptions ""/index.css""",200,OK,DB 2-78,text,true,,195718,166,150,303,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,201,0,0
+1688257975896,9863,"Get Subscriptions ""/index.js""",200,OK,DB 2-12,text,true,,161873,165,150,300,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,205,0,0
+1688257963983,21778,"Get Subscriptions ""/index.css""",200,OK,DB 2-109,text,true,,195718,166,150,300,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,1326,0,0
+1688257965496,20284,"Get Subscriptions ""/index.css""",200,OK,DB 2-98,text,true,,195718,166,150,299,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,425,0,0
+1688257980985,5020,"Get Subscriptions ""/index.js""",200,OK,DB 2-138,text,true,,161873,165,150,298,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,437,0,0
+1688257972499,13504,"Get Subscriptions ""/index.js""",200,OK,DB 2-70,text,true,,161873,165,150,298,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,1253,0,0
+1688257975735,10593,"Get Subscriptions ""/index.js""",200,OK,DB 2-2,text,true,,161873,165,150,298,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,409,0,0
+1688257969006,17541,"Get Subscriptions ""/index.js""",200,OK,DB 2-145,text,true,,161873,165,150,297,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,1367,0,0
+1688257963340,23217,"Get Subscriptions ""/index.css""",200,OK,DB 2-97,text,true,,195718,166,150,297,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,227,0,0
+1688257978541,8060,"Get Subscriptions ""/index.js""",200,OK,DB 2-130,text,true,,161873,165,150,296,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,1197,0,0
+1688257972098,14541,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-53,text,true,,569645,170,150,295,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1320,0,0
+1688257963323,23386,"Get Subscriptions ""/index.css""",200,OK,DB 2-126,text,true,,195718,166,149,293,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,205,0,0
+1688257973840,12920,"Get Subscriptions ""/index.js""",200,OK,DB 2-58,text,true,,161873,165,149,292,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,1747,0,0
+1688257963152,23622,"Get Subscriptions ""/index.css""",200,OK,DB 2-74,text,true,,195718,166,149,292,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,214,0,0
+1688257975680,11094,"Get Subscriptions ""/index.js""",200,OK,DB 2-67,text,true,,161873,165,149,292,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,1818,0,0
+1688257963330,23516,"Get Subscriptions ""/index.css""",200,OK,DB 2-131,text,true,,195718,166,149,292,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,1709,0,0
+1688257963205,23680,"Get Subscriptions ""/index.css""",200,OK,DB 2-89,text,true,,195718,166,149,292,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,202,0,0
+1688257971411,15474,"Get Subscriptions ""/index.js""",200,OK,DB 2-62,text,true,,161873,165,149,292,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,714,0,0
+1688257962446,24452,"Get Subscriptions ""/index.css""",200,OK,DB 2-42,text,true,,195718,166,149,292,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,213,0,0
+1688257968229,18699,"Get Subscriptions ""/index.js""",200,OK,DB 2-142,text,true,,161873,165,149,292,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,837,0,0
+1688257972818,14220,"Get Subscriptions ""/index.js""",200,OK,DB 2-125,text,true,,161873,165,149,292,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,209,0,0
+1688257972818,14254,"Get Subscriptions ""/index.js""",200,OK,DB 2-95,text,true,,161873,165,149,292,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,409,0,0
+1688257970870,16137,"Get Subscriptions ""/index.js""",200,OK,DB 2-135,text,true,,161873,165,149,292,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,728,0,0
+1688257961859,25248,"Get Subscriptions ""/index.css""",200,OK,DB 2-36,text,true,,195718,166,149,292,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,199,0,0
+1688257962798,24337,"Get Subscriptions ""/index.css""",200,OK,DB 2-57,text,true,,195718,166,149,292,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,202,0,0
+1688257970420,16938,"Get Subscriptions ""/index.js""",200,OK,DB 2-68,text,true,,161873,165,149,291,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,399,0,0
+1688257968960,18417,"Get Subscriptions ""/index.js""",200,OK,DB 2-117,text,true,,161873,165,149,291,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,392,0,0
+1688257973329,14271,"Get Subscriptions ""/index.js""",200,OK,DB 2-60,text,true,,161873,165,149,291,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,462,0,0
+1688257981100,6410,"Get Subscriptions ""/index.js""",200,OK,DB 2-106,text,true,,161873,165,149,291,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,444,0,0
+1688257977024,10759,"Get Subscriptions ""/index.js""",200,OK,DB 2-150,text,true,,161873,165,149,290,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,468,0,0
+1688257963339,24749,"Get Subscriptions ""/index.css""",200,OK,DB 2-91,text,true,,195718,166,149,288,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,2975,0,0
+1688257978421,9771,"Get Subscriptions ""/index.js""",200,OK,DB 2-55,text,true,,161873,165,149,287,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,205,0,0
+1688257963155,25257,"Get Subscriptions ""/index.css""",200,OK,DB 2-85,text,true,,195718,166,149,287,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,201,0,0
+1688257976647,11946,"Get Subscriptions ""/index.js""",200,OK,DB 2-81,text,true,,161873,165,149,286,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,845,0,0
+1688257973081,15483,"Get Subscriptions ""/index.js""",200,OK,DB 2-129,text,true,,161873,165,149,286,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,628,0,0
+1688257976498,13479,"Get Subscriptions ""/index.js""",200,OK,DB 2-100,text,true,,161873,165,149,284,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,1601,0,0
+1688257972980,17007,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-16,text,true,,569645,170,149,284,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1252,0,0
+1688257977560,12541,"Get Subscriptions ""/index.js""",200,OK,DB 2-64,text,true,,161873,165,148,283,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,420,0,0
+1688257983191,7409,"Get Subscriptions ""/index.js""",200,OK,DB 2-54,text,true,,161873,165,148,278,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,1292,0,0
+1688257973329,17428,"Get Subscriptions ""/index.js""",200,OK,DB 2-45,text,true,,161873,165,148,278,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,775,0,0
+1688257962455,28583,"Get Subscriptions ""/index.css""",200,OK,DB 2-35,text,true,,195718,166,148,275,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,4652,0,0
+1688257978157,13065,"Get Subscriptions ""/index.js""",200,OK,DB 2-111,text,true,,161873,165,148,275,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,283,0,0
+1688257972332,18914,"Get Subscriptions ""/index.js""",200,OK,DB 2-19,text,true,,161873,165,148,275,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,373,0,0
+1688257973840,17536,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-49,text,true,,569645,170,148,275,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,932,0,0
+1688257978421,13122,"Get Subscriptions ""/index.js""",200,OK,DB 2-14,text,true,,161873,165,147,273,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,404,0,0
+1688257978153,13452,"Get Subscriptions ""/index.js""",200,OK,DB 2-18,text,true,,161873,165,147,273,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,482,0,0
+1688257961792,29781,"Get Subscriptions ""/index.css""",200,OK,DB 2-30,text,true,,195718,166,147,273,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,2039,0,0
+1688257972103,19632,"Get Subscriptions ""/index.js""",200,OK,DB 2-43,text,true,,161873,165,147,272,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,213,0,0
+1688257961587,30157,"Get Subscriptions ""/index.css""",200,OK,DB 2-21,text,true,,195718,166,147,272,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,204,0,0
+1688257978811,13086,"Get Subscriptions ""/index.js""",200,OK,DB 2-27,text,true,,161873,165,147,272,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,546,0,0
+1688257979137,12941,"Get Subscriptions ""/index.js""",200,OK,DB 2-38,text,true,,161873,165,147,270,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,423,0,0
+1688257961603,30524,"Get Subscriptions ""/index.css""",200,OK,DB 2-13,text,true,,195718,166,147,270,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,211,0,0
+1688257984901,7217,"Get Subscriptions ""/index.js""",200,OK,DB 2-66,text,true,,161873,165,147,270,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,421,0,0
+1688257971578,20753,"Get Subscriptions ""/index.js""",200,OK,DB 2-143,text,true,,161873,165,147,269,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,399,0,0
+1688257979629,13098,"Get Subscriptions ""/index.js""",200,OK,DB 2-80,text,true,,161873,165,147,267,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,692,0,0
+1688257977612,15030,"Get Subscriptions ""/index.js""",200,OK,DB 2-123,text,true,,161873,165,147,269,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,322,0,0
+1688257973329,19312,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-20,text,true,,569645,170,147,269,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,822,0,0
+1688257978024,14738,"Get Subscriptions ""/index.js""",200,OK,DB 2-15,text,true,,161873,165,146,266,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,514,0,0
+1688257974606,18292,"Get Subscriptions ""/index.js""",200,OK,DB 2-112,text,true,,161873,165,146,265,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,1966,0,0
+1688257978545,14372,"Get Subscriptions ""/index.js""",200,OK,DB 2-148,text,true,,161873,165,146,265,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,200,0,0
+1688257979251,14243,"Get Subscriptions ""/index.js""",200,OK,DB 2-56,text,true,,161873,165,146,261,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,706,0,0
+1688257977508,16164,"Get Subscriptions ""/index.js""",200,OK,DB 2-121,text,true,,161873,165,146,261,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,653,0,0
+1688257979960,13816,"Get Subscriptions ""/index.js""",200,OK,DB 2-59,text,true,,161873,165,146,261,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,658,0,0
+1688257975190,18733,"Get Subscriptions ""/index.js""",200,OK,DB 2-26,text,true,,161873,165,146,261,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,952,0,0
+1688257987108,7076,"Get Subscriptions ""/index.js""",200,OK,DB 2-36,text,true,,161873,165,146,258,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,504,0,0
+1688257986594,7760,"Get Subscriptions ""/index.js""",200,OK,DB 2-97,text,true,,161873,165,146,258,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,287,0,0
+1688257963328,31239,"Get Subscriptions ""/index.css""",200,OK,DB 2-115,text,true,,195718,166,146,256,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,9009,0,0
+1688257978056,16623,"Get Subscriptions ""/index.js""",200,OK,DB 2-46,text,true,,161873,165,146,256,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,467,0,0
+1688257979069,15952,"Get Subscriptions ""/index.js""",200,OK,DB 2-23,text,true,,161873,165,146,255,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,417,0,0
+1688257985073,10116,"Get Subscriptions ""/index.js""",200,OK,DB 2-11,text,true,,161873,165,146,255,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,422,0,0
+1688257986846,8448,"Get Subscriptions ""/index.js""",200,OK,DB 2-131,text,true,,161873,165,146,254,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,827,0,0
+1688257980729,14574,"Get Subscriptions ""/index.js""",200,OK,DB 2-96,text,true,,161873,165,146,254,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,212,0,0
+1688257979098,16311,"Get Subscriptions ""/index.js""",200,OK,DB 2-72,text,true,,161873,165,146,254,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,826,0,0
+1688257979446,16173,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-47,text,true,,569645,170,146,253,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1273,0,0
+1688257986708,9088,"Get Subscriptions ""/index.js""",200,OK,DB 2-126,text,true,,161873,165,145,251,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,400,0,0
+1688257963018,32875,"Get Subscriptions ""/index.css""",200,OK,DB 2-76,text,true,,195718,166,145,250,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,202,0,0
+1688257971966,23969,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-17,text,true,,569645,170,145,250,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,937,0,0
+1688257963179,32789,"Get Subscriptions ""/index.css""",200,OK,DB 2-87,text,true,,195718,166,144,249,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,1364,0,0
+1688257980474,15887,"Get Subscriptions ""/index.js""",200,OK,DB 2-149,text,true,,161873,165,144,248,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,429,0,0
+1688257972355,24173,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-24,text,true,,569645,170,144,248,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1324,0,0
+1688257979203,17385,"Get Subscriptions ""/index.js""",200,OK,DB 2-86,text,true,,161873,165,143,246,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,470,0,0
+1688257963335,33702,"Get Subscriptions ""/index.css""",200,OK,DB 2-124,text,true,,195718,166,143,245,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,1010,0,0
+1688257963336,33748,"Get Subscriptions ""/index.css""",200,OK,DB 2-120,text,true,,195718,166,143,245,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,2795,0,0
+1688257985779,11307,"Get Subscriptions ""/index.js""",200,OK,DB 2-98,text,true,,161873,165,143,245,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,1318,0,0
+1688257974549,22539,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-33,text,true,,569645,170,143,245,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,602,0,0
+1688257982518,14634,"Get Subscriptions ""/index.js""",200,OK,DB 2-140,text,true,,161873,165,142,244,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,899,0,0
+1688257981790,15376,"Get Subscriptions ""/index.js""",200,OK,DB 2-119,text,true,,161873,165,142,244,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,598,0,0
+1688257981626,15544,"Get Subscriptions ""/index.js""",200,OK,DB 2-29,text,true,,161873,165,142,244,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,403,0,0
+1688257962853,34558,"Get Subscriptions ""/index.css""",200,OK,DB 2-40,text,true,,195718,166,142,244,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,425,0,0
+1688257984164,13253,"Get Subscriptions ""/index.js""",200,OK,DB 2-102,text,true,,161873,165,142,244,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,1778,0,0
+1688257971785,25880,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-73,text,true,,569645,170,142,242,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,741,0,0
+1688257982599,15227,"Get Subscriptions ""/index.js""",200,OK,DB 2-92,text,true,,161873,165,141,240,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,713,0,0
+1688257963324,34471,"Get Subscriptions ""/index.css""",200,OK,DB 2-114,text,true,,195718,166,141,241,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,1549,0,0
+1688257985579,12303,"Get Subscriptions ""/index.js""",200,OK,DB 2-78,text,true,,161873,165,141,240,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,396,0,0
+1688257978145,19792,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-32,text,true,,569645,170,141,239,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,731,0,0
+1688257984722,13348,"Get Subscriptions ""/index.js""",200,OK,DB 2-99,text,true,,161873,165,140,238,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,834,0,0
+1688257984100,14113,"Get Subscriptions ""/index.js""",200,OK,DB 2-3,text,true,,161873,165,140,237,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,1415,0,0
+1688257978437,19918,"Get Subscriptions ""/index.js""",200,OK,DB 2-7,text,true,,161873,165,140,237,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,706,0,0
+1688257982669,16096,"Get Subscriptions ""/index.js""",200,OK,DB 2-141,text,true,,161873,165,140,236,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,1387,0,0
+1688257982074,17553,"Get Subscriptions ""/index.js""",200,OK,DB 2-137,text,true,,161873,165,140,233,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,1374,0,0
+1688257976887,22977,"Get Subscriptions ""/index.js""",200,OK,DB 2-10,text,true,,161873,165,140,233,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,424,0,0
+1688257983702,16248,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-37,text,true,,569645,170,140,232,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,900,0,0
+1688257985760,14229,"Get Subscriptions ""/index.js""",200,OK,DB 2-109,text,true,,161873,165,139,231,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,1418,0,0
+1688257981751,18295,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-83,text,true,,569645,170,139,231,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,2810,0,0
+1688257974937,25156,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-133,text,true,,569645,170,138,230,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,989,0,0
+1688257972680,27609,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-82,text,true,,569645,170,137,226,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,2265,0,0
+1688257983029,17211,"Get Subscriptions ""/index.js""",200,OK,DB 2-84,text,true,,161873,165,137,228,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,333,0,0
+1688257973171,27281,"Get Subscriptions ""/index.js""",200,OK,DB 2-5,text,true,,161873,165,136,223,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,575,0,0
+1688257991039,9682,"Get Subscriptions ""/index.js""",200,OK,DB 2-35,text,true,,161873,165,136,223,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,405,0,0
+1688257986897,14131,"Get Subscriptions ""/index.js""",200,OK,DB 2-42,text,true,,161873,165,136,223,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,728,0,0
+1688257988413,13015,"Get Subscriptions ""/index.js""",200,OK,DB 2-85,text,true,,161873,165,136,221,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,439,0,0
+1688257978421,23017,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-65,text,true,,569645,170,136,221,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,725,0,0
+1688257988123,13378,"Get Subscriptions ""/index.js""",200,OK,DB 2-91,text,true,,161873,165,135,220,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,430,0,0
+1688257963326,38185,"Get Subscriptions ""/index.css""",200,OK,DB 2-116,text,true,,195718,166,135,220,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,1337,0,0
+1688257963328,38502,"Get Subscriptions ""/index.css""",200,OK,DB 2-122,text,true,,195718,166,135,220,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,9009,0,0
+1688257981717,20680,"Get Subscriptions ""/index.js""",200,OK,DB 2-52,text,true,,161873,165,135,218,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,891,0,0
+1688257981125,21666,"Get Subscriptions ""/index.js""",200,OK,DB 2-110,text,true,,161873,165,135,215,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,598,0,0
+1688257963324,39479,"Get Subscriptions ""/index.css""",200,OK,DB 2-134,text,true,,195718,166,135,215,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,205,0,0
+1688257984271,18708,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-39,text,true,,569645,170,135,215,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1639,0,0
+1688257972650,30360,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-105,text,true,,569645,170,134,214,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,982,0,0
+1688257992214,10817,"Get Subscriptions ""/index.js""",200,OK,DB 2-13,text,true,,161873,165,133,213,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,820,0,0
+1688257975395,27664,"Get Subscriptions ""/index.js""",200,OK,DB 2-136,text,true,,161873,165,133,212,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,721,0,0
+1688257981625,21460,"Get Subscriptions ""/index.js""",200,OK,DB 2-147,text,true,,161873,165,133,212,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,425,0,0
+1688257977407,25730,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-31,text,true,,569645,170,133,212,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1236,0,0
+1688257997036,6250,"Get Subscriptions ""/index.js""",200,OK,DB 2-124,text,true,,161873,165,132,209,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,427,0,0
+1688257991699,11646,"Get Subscriptions ""/index.js""",200,OK,DB 2-30,text,true,,161873,165,132,209,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,730,0,0
+1688257991745,11716,"Get Subscriptions ""/index.js""",200,OK,DB 2-21,text,true,,161873,165,132,209,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,912,0,0
+1688257982518,21012,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-94,text,true,,569645,170,132,209,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,640,0,0
+1688257987134,16512,"Get Subscriptions ""/index.js""",200,OK,DB 2-57,text,true,,161873,165,131,208,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,2580,0,0
+1688257977582,26091,"Get Subscriptions ""/index.js""",200,OK,DB 2-107,text,true,,161873,165,131,208,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,418,0,0
+1688257995967,7807,"Get Subscriptions ""/index.js""",200,OK,DB 2-87,text,true,,161873,165,131,207,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,1092,0,0
+1688257981660,22667,"Get Subscriptions ""/index.js""",200,OK,DB 2-75,text,true,,161873,165,131,205,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,423,0,0
+1688257973359,30971,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-79,text,true,,569645,170,131,205,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1236,0,0
+1688257986884,17676,"Get Subscriptions ""/index.js""",200,OK,DB 2-89,text,true,,161873,165,130,203,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,403,0,0
+1688257985185,19470,"Get Subscriptions ""/index.js""",200,OK,DB 2-108,text,true,,161873,165,130,202,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,498,0,0
+1688257972077,32643,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-8,text,true,,569645,170,130,201,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,2694,0,0
+1688257975641,29122,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-103,text,true,,569645,170,129,200,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,822,0,0
+1688257984861,20020,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-127,text,true,,569645,170,128,199,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,844,0,0
+1688257986773,18093,"Get Subscriptions ""/index.js""",200,OK,DB 2-74,text,true,,161873,165,128,199,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,215,0,0
+1688257979810,25312,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-1,text,true,,569645,170,127,197,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,714,0,0
+1688257974135,30999,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-90,text,true,,569645,170,126,196,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1147,0,0
+1688257977407,27917,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-50,text,true,,569645,170,125,195,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,592,0,0
+1688257980506,25260,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-69,text,true,,569645,170,124,191,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,664,0,0
+1688257994567,11240,"Get Subscriptions ""/index.js""",200,OK,DB 2-115,text,true,,161873,165,123,190,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,409,0,0
+1688257986594,19553,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-145,text,true,,569645,170,123,189,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,638,0,0
+1688257983797,22358,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-51,text,true,,569645,170,122,187,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1092,0,0
+1688257983029,23343,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-6,text,true,,569645,170,121,184,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,2001,0,0
+1688257981487,25010,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-93,text,true,,569645,170,120,181,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,882,0,0
+1688257981853,25848,"Get Subscriptions ""/index.js""",200,OK,DB 2-118,text,true,,161873,165,119,173,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,602,0,0
+1688257983093,24992,"Get Subscriptions ""/index.js""",200,OK,DB 2-48,text,true,,161873,165,119,173,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,700,0,0
+1688257973329,35173,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-22,text,true,,569645,170,119,171,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,821,0,0
+1688257995893,12946,"Get Subscriptions ""/index.js""",200,OK,DB 2-76,text,true,,161873,165,118,168,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,422,0,0
+1688257979195,29715,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-41,text,true,,569645,170,118,167,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,875,0,0
+1688257997833,11401,"Get Subscriptions ""/index.js""",200,OK,DB 2-114,text,true,,161873,165,117,166,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,708,0,0
+1688257997083,12178,"Get Subscriptions ""/index.js""",200,OK,DB 2-120,text,true,,161873,165,117,166,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,634,0,0
+1688257986885,22555,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-62,text,true,,569645,170,117,163,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1484,0,0
+1688257980474,29283,"Get Subscriptions ""/index.js""",200,OK,DB 2-34,text,true,,161873,165,116,162,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,708,0,0
+1688257963335,46498,"Get Subscriptions ""/index.css""",200,OK,DB 2-139,text,true,,195718,166,116,162,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,4910,0,0
+1688257983546,26599,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-144,text,true,,569645,170,116,159,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1883,0,0
+1688257986091,24142,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-138,text,true,,569645,170,115,157,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,815,0,0
+1688257997410,12874,"Get Subscriptions ""/index.js""",200,OK,DB 2-40,text,true,,161873,165,114,156,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,423,0,0
+1688257979021,31487,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-146,text,true,,569645,170,114,156,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,936,0,0
+1688257982710,28929,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-63,text,true,,569645,170,113,147,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1493,0,0
+1688257981820,30337,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-25,text,true,,569645,170,112,145,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1354,0,0
+1688258002940,9183,"Get Subscriptions ""/index.js""",200,OK,DB 2-134,text,true,,161873,165,112,145,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,1279,0,0
+1688257987104,25281,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-125,text,true,,569645,170,111,143,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1555,0,0
+1688257982004,30757,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-104,text,true,,569645,170,110,139,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1489,0,0
+1688257987619,25250,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-106,text,true,,569645,170,109,137,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,2846,0,0
+1688257985073,27983,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-71,text,true,,569645,170,108,136,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1618,0,0
+1688257990676,22412,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-54,text,true,,569645,170,108,135,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,622,0,0
+1688257986760,26752,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-58,text,true,,569645,170,106,133,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,3414,0,0
+1688258001909,11916,"Get Subscriptions ""/index.js""",200,OK,DB 2-122,text,true,,161873,165,105,132,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,1250,0,0
+1688257975231,38672,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-88,text,true,,569645,170,105,131,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1814,0,0
+1688257982518,31970,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-77,text,true,,569645,170,104,130,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,2048,0,0
+1688257986091,28434,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-70,text,true,,569645,170,103,129,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,793,0,0
+1688258001510,13100,"Get Subscriptions ""/index.js""",200,OK,DB 2-116,text,true,,161873,165,102,127,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,715,0,0
+1688257981654,33262,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-4,text,true,,569645,170,102,125,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1507,0,0
+1688257984886,30147,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-101,text,true,,569645,170,101,123,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1137,0,0
+1688257991897,23397,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-27,text,true,,569645,170,100,117,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,822,0,0
+1688257997086,18649,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-98,text,true,,569645,170,99,114,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1141,0,0
+1688257980306,35352,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-44,text,true,,569645,170,99,114,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1179,0,0
+1688257990163,25704,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-64,text,true,,569645,170,97,111,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1148,0,0
+1688257981487,34416,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-28,text,true,,569645,170,96,110,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,2569,0,0
+1688257986601,29717,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-130,text,true,,569645,170,95,106,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1005,0,0
+1688257987379,29020,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-117,text,true,,569645,170,94,105,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,2137,0,0
+1688258009832,6736,"Get Subscriptions ""/index.js""",200,OK,DB 2-139,text,true,,161873,165,93,104,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,3106,0,0
+1688257992728,23852,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-80,text,true,,569645,170,93,104,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1026,0,0
+1688257987360,29322,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-68,text,true,,569645,170,92,103,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,2251,0,0
+1688257985098,31820,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-61,text,true,,569645,170,91,102,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,926,0,0
+1688257995408,21942,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-72,text,true,,569645,170,90,98,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1074,0,0
+1688257984055,33327,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-113,text,true,,569645,170,89,97,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,770,0,0
+1688257988651,28824,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-129,text,true,,569645,170,88,96,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,2277,0,0
+1688257987619,29937,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-60,text,true,,569645,170,87,95,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,2514,0,0
+1688257992917,24663,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-148,text,true,,569645,170,86,94,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1016,0,0
+1688257994250,23345,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-36,text,true,,569645,170,85,93,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,734,0,0
+1688257992761,25040,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-15,text,true,,569645,170,84,92,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1200,0,0
+1688257991699,26097,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-18,text,true,,569645,170,84,92,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1068,0,0
+1688257988651,29186,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-81,text,true,,569645,170,82,90,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1665,0,0
+1688257994762,23246,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-46,text,true,,569645,170,81,88,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1210,0,0
+1688257992214,25891,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-66,text,true,,569645,170,80,87,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,703,0,0
+1688257996587,21950,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-86,text,true,,569645,170,79,82,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,665,0,0
+1688257992333,26657,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-143,text,true,,569645,170,78,81,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1475,0,0
+1688257998848,20363,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-141,text,true,,569645,170,77,80,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1719,0,0
+1688257985759,34198,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-12,text,true,,569645,170,76,78,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,369,0,0
+1688257991543,28838,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-14,text,true,,569645,170,75,77,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1013,0,0
+1688257986328,34076,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-2,text,true,,569645,170,74,76,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1042,0,0
+1688257993776,26822,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-59,text,true,,569645,170,73,75,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1123,0,0
+1688257980659,40037,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-9,text,true,,569645,170,72,74,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1058,0,0
+1688257986928,34039,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-142,text,true,,569645,170,71,72,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,2357,0,0
+1688257997152,23898,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-140,text,true,,569645,170,70,71,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1069,0,0
+1688257993923,27209,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-26,text,true,,569645,170,69,70,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1856,0,0
+1688257995303,25868,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-96,text,true,,569645,170,68,69,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1061,0,0
+1688257988192,33154,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-55,text,true,,569645,170,67,68,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,2637,0,0
+1688257987785,33550,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-150,text,true,,569645,170,67,68,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,3011,0,0
+1688257987104,34425,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-135,text,true,,569645,170,65,66,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,2790,0,0
+1688258002422,19288,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-52,text,true,,569645,170,64,65,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1200,0,0
+1688257996360,25516,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-149,text,true,,569645,170,63,64,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,740,0,0
+1688258003030,18986,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-13,text,true,,569645,170,62,63,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,907,0,0
+1688257990758,31265,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-45,text,true,,569645,170,61,62,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,873,0,0
+1688258000452,21622,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-5,text,true,,569645,170,60,61,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1107,0,0
+1688258002790,19345,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-110,text,true,,569645,170,59,59,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,899,0,0
+1688257992728,29700,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-123,text,true,,569645,170,58,58,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1537,0,0
+1688258000720,21596,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-35,text,true,,569645,170,58,58,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1092,0,0
+1688258001028,21327,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-42,text,true,,569645,170,58,58,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1047,0,0
+1688257994354,28154,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-97,text,true,,569645,170,55,55,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1899,0,0
+1688257999989,22548,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-109,text,true,,569645,170,54,54,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1291,0,0
+1688257987104,35441,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-95,text,true,,569645,170,53,53,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,867,0,0
+1688257995796,26806,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-126,text,true,,569645,170,52,52,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,3899,0,0
+1688257989979,32806,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-100,text,true,,569645,170,51,51,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1953,0,0
+1688258003085,19697,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-147,text,true,,569645,170,51,51,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1083,0,0
+1688257997882,25025,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-78,text,true,,569645,170,49,49,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1509,0,0
+1688257993493,29488,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-56,text,true,,569645,170,48,48,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,2467,0,0
+1688257999626,23365,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-137,text,true,,569645,170,47,47,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,867,0,0
+1688258004326,18769,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-75,text,true,,569645,170,46,46,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1492,0,0
+1688257995295,27840,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-131,text,true,,569645,170,45,45,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1649,0,0
+1688257991222,31939,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-111,text,true,,569645,170,44,44,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,948,0,0
+1688257992899,30459,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-112,text,true,,569645,170,43,43,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1819,0,0
+1688257991737,31623,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-43,text,true,,569645,170,43,43,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1199,0,0
+1688257995276,28068,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-11,text,true,,569645,170,43,43,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1403,0,0
+1688258001500,21990,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-91,text,true,,569645,170,40,40,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1260,0,0
+1688258004655,18990,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-108,text,true,,569645,170,39,39,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1264,0,0
+1688257997169,26508,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-29,text,true,,569645,170,38,38,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1259,0,0
+1688257991247,32442,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-19,text,true,,569645,170,37,37,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1188,0,0
+1688257995021,28861,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-23,text,true,,569645,170,36,36,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1553,0,0
+1688257998331,25513,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-3,text,true,,569645,170,36,36,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1264,0,0
+1688258004560,19248,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-89,text,true,,569645,170,36,36,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,884,0,0
+1688257993736,30028,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-121,text,true,,569645,170,36,36,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1776,0,0
+1688258008085,15878,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-48,text,true,,569645,170,32,32,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1095,0,0
+1688258003672,20377,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-107,text,true,,569645,170,31,31,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1599,0,0
+1688258000372,23858,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-84,text,true,,569645,170,30,30,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1310,0,0
+1688258003452,20821,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-30,text,true,,569645,170,29,29,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1022,0,0
+1688258008839,15583,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-76,text,true,,569645,170,28,28,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,441,0,0
+1688257997165,27272,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-119,text,true,,569645,170,27,27,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1296,0,0
+1688258009234,15265,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-114,text,true,,569645,170,26,26,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,759,0,0
+1688258013826,10685,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-122,text,true,,569645,170,25,25,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,939,0,0
+1688257997418,27099,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-102,text,true,,569645,170,24,24,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1255,0,0
+1688258003774,20801,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-87,text,true,,569645,170,23,23,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1596,0,0
+1688257999864,24831,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-10,text,true,,569645,170,22,22,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1395,0,0
+1688258003460,21347,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-21,text,true,,569645,170,21,21,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1559,0,0
+1688258005016,19791,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-74,text,true,,569645,170,21,21,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,714,0,0
+1688257997833,26937,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-92,text,true,,569645,170,21,21,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1198,0,0
+1688257992078,33072,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-38,text,true,,569645,170,18,18,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1629,0,0
+1688258003646,21539,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-57,text,true,,569645,170,17,17,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,2388,0,0
+1688258001427,23776,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-85,text,true,,569645,170,16,16,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1086,0,0
+1688258003059,22180,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-136,text,true,,569645,170,15,15,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1422,0,0
+1688258009757,15613,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-34,text,true,,569645,170,14,14,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,648,0,0
+1688258014738,10690,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-116,text,true,,569645,170,13,13,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,741,0,0
+1688258005807,19716,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-115,text,true,,569645,170,12,12,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1483,0,0
+1688257998070,27461,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-99,text,true,,569645,170,11,11,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1333,0,0
+1688258009262,16671,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-120,text,true,,569645,170,10,10,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1564,0,0
+1688258012169,13778,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-134,text,true,,569645,170,9,9,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,677,0,0
+1688257998354,27811,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-7,text,true,,569645,170,8,8,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1414,0,0
+1688258007700,18481,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-118,text,true,,569645,170,7,7,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,848,0,0
+1688258003286,23372,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-124,text,true,,569645,170,6,6,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1168,0,0
+1688258016569,11080,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-139,text,true,,569645,170,5,5,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,451,0,0
+1688258010284,17773,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-40,text,true,,569645,170,4,4,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,852,0,0
+1688257963327,66522,"Get Subscriptions ""/index.css""",200,OK,DB 2-128,text,true,,195718,166,3,3,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,211,0,0
+1688258029850,2187,"Get Subscriptions ""/index.js""",200,OK,DB 2-128,text,true,,161873,165,3,3,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,402,0,199
+1688257963337,71552,"Get Subscriptions ""/index.css""",Non HTTP response code: org.apache.http.ConnectionClosedException,"Non HTTP response message: Premature end of Content-Length delimited message body (expected: 195,432; received: 78,786)",DB 2-132,text,false,,1332,0,3,3,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.css,4908,0,0
+1688258032037,3574,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-128,text,true,,569645,170,3,3,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,599,0,0
+1688258034888,2349,"Get Subscriptions ""/index.js""",200,OK,DB 2-132,text,true,,161873,165,2,2,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/index.js,431,0,214
+1688258037237,3352,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-132,text,true,,569645,170,2,2,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,324,0,0
+1688257986774,61500,"Get Subscriptions ""/subscriptions""",200,OK,DB 2-67,text,true,,569645,170,1,1,http://microserviceLB-980459616.us-east-1.elb.amazonaws.com/subscriptions,1284,0,0
